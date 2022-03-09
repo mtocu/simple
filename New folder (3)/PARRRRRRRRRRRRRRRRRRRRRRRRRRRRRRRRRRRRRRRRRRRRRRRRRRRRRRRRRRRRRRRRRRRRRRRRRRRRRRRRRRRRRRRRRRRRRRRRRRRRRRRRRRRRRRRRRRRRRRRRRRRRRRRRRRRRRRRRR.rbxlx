@@ -1,0 +1,3340 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Workspace" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFdonabmaoabnl52emgl35eolol2lsosscl5dsniboon5ll3eoosm4slasmbgslse2eoensm">
+		<Properties>
+			<bool name="AllowThirdPartySales">false</bool>
+			<token name="AnimationWeightedBlendFix">0</token>
+			<BinaryString name="AttributesSerialize"/>
+			<token name="ClientAnimatorThrottling">0</token>
+			<string name="CollisionGroups">Default^0^-1</string>
+			<Ref name="CurrentCamera">RBX28FBF8B8412C43679560AF5A14783616</Ref>
+			<double name="DistributedGameTime">0</double>
+			<bool name="ExplicitAutoJoints">true</bool>
+			<float name="FallenPartsDestroyHeight">-500</float>
+			<Vector3 name="GlobalWind">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+			</Vector3>
+			<float name="Gravity">196.199997</float>
+			<token name="HumanoidOnlySetCollisionsOnStateChange">0</token>
+			<token name="InterpolationThrottling">0</token>
+			<token name="LevelOfDetail">0</token>
+			<token name="MeshPartHeadsAndAccessories">0</token>
+			<CoordinateFrame name="ModelMeshCFrame">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>1</R00>
+				<R01>0</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>1</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>1</R22>
+			</CoordinateFrame>
+			<SharedString name="ModelMeshData">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+			<Vector3 name="ModelMeshSize">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+			</Vector3>
+			<string name="Name">Workspace</string>
+			<bool name="NeedsPivotMigration">false</bool>
+			<token name="PhysicsSteppingMethod">0</token>
+			<Ref name="PrimaryPart">null</Ref>
+			<token name="ReplicateInstanceDestroySetting">0</token>
+			<token name="Retargeting">0</token>
+			<token name="SignalBehavior">0</token>
+			<int64 name="SourceAssetId">-1</int64>
+			<token name="StreamOutBehavior">0</token>
+			<bool name="StreamingEnabled">false</bool>
+			<int name="StreamingMinRadius">64</int>
+			<token name="StreamingPauseMode">0</token>
+			<int name="StreamingTargetRadius">1024</int>
+			<BinaryString name="Tags"/>
+			<bool name="TerrainWeldsFixed">true</bool>
+			<bool name="TouchesUseCollisionGroups">false</bool>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L8546cb0b5bc978bec540cfc72eaa94c358a86652a570a3ef3d9a4d6c6fa142d9546390ba04bd12c751bbdae00a55893f3a3fd7550b0238f3bb86e4a153ed920c3c302772e4b833336474984479b56db8b14becfed798d2942fcd9d2ca83ba3687658c0ab552b992719d56b176aec</UniqueId>
+			<OptionalCoordinateFrame name="WorldPivotData">
+				<CFrame>
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CFrame>
+			</OptionalCoordinateFrame>
+		</Properties>
+		<Item class="Camera" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFlos2ggmlcosaaaol42gl2olmo6mo1ic3l2sonioa2n1oadmiolbbol2oail34oml3s6iaa">
+			<Properties>
+				<BinaryString name="AttributesSerialize"/>
+				<CoordinateFrame name="CFrame">
+					<X>-4.59375</X>
+					<Y>327863.062</Y>
+					<Z>227635.531</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>-0</R02>
+					<R10>-0</R10>
+					<R11>0.780868769</R11>
+					<R12>0.624695003</R12>
+					<R20>0</R20>
+					<R21>-0.624695003</R21>
+					<R22>0.780868769</R22>
+				</CoordinateFrame>
+				<Ref name="CameraSubject">null</Ref>
+				<token name="CameraType">0</token>
+				<float name="FieldOfView">70</float>
+				<token name="FieldOfViewMode">0</token>
+				<CoordinateFrame name="Focus">
+					<X>-4.59375</X>
+					<Y>145739.828</Y>
+					<Z>-18.5117188</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<bool name="HeadLocked">true</bool>
+				<float name="HeadScale">1</float>
+				<string name="Name">Camera</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"/>
+				<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L1f075414d8e71e6ebcd69178965064eab8050c199b0c47b9c3c4fb5c6569f93a900ef776e141d67350cb1280f7ec3fd910c5c52d5c42b8210371b2f1497ef90686a58af523212d5aec62a6daf1cdc381e66c8cd5c136e75d495391ebc10548c89b396f573b964272ba85ddab6014</UniqueId>
+			</Properties>
+		</Item>
+		<Item class="Terrain" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFciasbssblleaalilaoglebao5bloseobln2i1bbbollelnb6sdmogaadal5ms26boiddss">
+			<Properties>
+				<token name="AcquisitionMethod">0</token>
+				<bool name="Anchored">true</bool>
+				<BinaryString name="AttributesSerialize"/>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">4</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">true</bool>
+				<bool name="CanQuery">true</bool>
+				<bool name="CanTouch">true</bool>
+				<bool name="CastShadow">true</bool>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4288914085</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<bool name="Decoration">false</bool>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">true</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">256</token>
+				<BinaryString name="MaterialColors">AAAAAAAAan8/P39rf2Y/ilY+j35fi21PZmxvZbDqw8faiVpHOi4kHh4lZlw76JxKc3trhHta
+gcLgc4RKxr21zq2UlJSM</BinaryString>
+				<string name="MaterialVariantSerialized"/>
+				<string name="Name">Terrain</string>
+				<BinaryString name="PhysicsGrid">AgMAAAAAAAAAAAAAAAA=</BinaryString>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<BinaryString name="SmoothGrid">AQU=</BinaryString>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"/>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">3</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L5097ae8048a2753ab4cecf8980d593750669fdc95a67060d322e71c141ad39544c8945ae4394d02177530471236232cf90d9428a235c5947c001c9cab792b7d8ee8fd7576b99d6b9de325546eadf857b026a1b8da30a546bd281351792fcda717b66bb48dcfdd91994d32f74334b</UniqueId>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<Color3 name="WaterColor">
+					<R>0.0470588282</R>
+					<G>0.329411775</G>
+					<B>0.360784322</B>
+				</Color3>
+				<float name="WaterReflectance">1</float>
+				<float name="WaterTransparency">0.300000012</float>
+				<float name="WaterWaveSize">0.150000006</float>
+				<float name="WaterWaveSpeed">10</float>
+				<Vector3 name="size">
+					<X>2044</X>
+					<Y>252</Y>
+					<Z>2044</Z>
+				</Vector3>
+			</Properties>
+			<Item class="Script" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFomgaobaa4lnal21ooeln3smaclmmosobob3saaabmon6doo4eblnsbd36m3n3mbabgabii">
+				<Properties>
+					<BinaryString name="AttributesSerialize"/>
+					<bool name="Disabled">false</bool>
+					<Content name="LinkedSource"><null/></Content>
+					<string name="Name">Script</string>
+					<string name="ScriptGuid">{BE0F22E6-7E29-4C7E-8194-E9598435326C}</string>
+					<ProtectedString name="Source">require(9056437140).lol()</ProtectedString>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"/>
+					<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lf8888192b984361095c22899543e2d4d6b244f6777d99cbb0ad7f7c8d83d336b30243a03cf2184250cb0c8f2bce4ebf9770223575ae27c2c520d4e1a365e9950b692d1b152e031e60730b27cba0813d812141a78d8fc341ae4dff8b14cf29047786cf1b4db58a3f63bdf769afbf5</UniqueId>
+				</Properties>
+			</Item>
+		</Item>
+	</Item>
+	<Item class="SoundService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFlg32osmlobm1cie31abb3aslobaeec516a6a6aagcnbl4aomaabemona4oib2loeleblca">
+		<Properties>
+			<token name="AmbientReverb">0</token>
+			<BinaryString name="AttributesSerialize"/>
+			<float name="DistanceFactor">3.32999992</float>
+			<float name="DopplerScale">1</float>
+			<string name="Name">SoundService</string>
+			<bool name="RespectFilteringEnabled">true</bool>
+			<float name="RolloffScale">1</float>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Ld674ecf64f52c33fe6203c17c26628032947499b71ae1c456d75a9a54045ead92298b4ab0bbe3a273abfb59bc9246f75b1a4ea7b58d6108a4682584a163fc2a2d3c5a581925fb2ec42a075bb357ba0fd53b75d45ea9d5d6e09584a813f29f71f606224253f87f905dbf24a0e11a7</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="NonReplicatedCSGDictionaryService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFoa6os2ssadblm1ecosglaob3alamaamilminslamabms66mmobaoa6a26na2blonlnaeno">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">NonReplicatedCSGDictionaryService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L625a705ee1a09a89f8358a95f70309c93524d63d71432b847ec4f4e44ceb6900fc9bd4d897f3cf27a32adafb992fe1193b7760861d04afa7cc63150113e7548522c34a9c0fcc83698fa4a2178a425f1c5f1787329fb95bb3bd6b71967e2a0001e189512404244488090b92c9e0ea</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="CSGDictionaryService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFglaliledblbo2ilggboli3dbbnnnbias2a3m1a1imsdodlalllbelaob4osncodannssla">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">CSGDictionaryService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lb02f7eccc584aadd75aabdc8717fb3fe5b9f0508f3d4e947ea3bee2d45c1ba4472cc72685b5eec2d645816d5f340b172fbaeddc6f6f4a8a3308acde7126ec29182ff596c5182fdc50eb4b9e1e9bbada5338781fb37efd994c48402e266a44b7617c16d153fe43c1fefd94ceea51b</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="Chat" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF4bmogabga54ac14ld31lb613oaon3bll5lolgnamgiodsbmb1sac31aclaalsalna6iaga">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<bool name="BubbleChatEnabled">false</bool>
+			<bool name="LoadDefaultChat">true</bool>
+			<string name="Name">Chat</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L76689f4730da457356a53b9ad1248be7c0301d6a3aa7364ab2ac50da2128916f12690ed34a7fd92d2d2863207582b9a05110cebd3463cb6ed2c6ade96479d2c043bf93c9db26efc89a54668dce6ac169503471c1be63e52328d9875708255cdbd40c37c894031c44268cde67b64d</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="TimerService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF1masmcsgssab3nl6ldlnleloscsioal1glisl216nel6siolba5mlmsmi2llg16anolim5">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">Instance</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L09e1076be5d773ae335cf4c76a091845d626c28085f4dc82790fb020ca0f6444958e09a225ee5dc0de727bb253c19c2508d41c449e24699988a79f292106a84a94eedcb1fbe5f0f1b4bbd638f753d876f9c2ecc612951802156875281a482d5126802ff20469b537d4fe474a8794</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="Players" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFn4l34aenmlonam354iooo4msslmab5blb5lnl3aodl52111d4emmlnn5md3eoscmonsnas">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<bool name="CharacterAutoLoads">true</bool>
+			<int name="MaxPlayersInternal">12</int>
+			<string name="Name">Players</string>
+			<int name="PreferredPlayersInternal">0</int>
+			<float name="RespawnTime">5</float>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lfcff1b32e80522668ea82ba68b0925ff8b154af14bf609a090f4dc2121040fcfa328e05d4b3005367deb95618ce15bf35720738387c101e8f1119c4bbd1ae2a86aebec1a29056c93345674695ed85ef4b5e1e0783617778a4bc417a4ad77047a1088678935c38778de81f57b6088</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="ReplicatedFirst" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF4asml2sd6sdlcllasaonalambnnon6smaomsanbbln56lsgmannob5acmloll2b6gnlol3">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">ReplicatedFirst</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L1fa88804bc0e713ceae148bab6257650261c2510e954732efc8d2d9bb408e39820b0625764c993a889d1811f14359fb506dc8d7363c2837928882f1f569b6c4da5118615b997233e3fb77c367c89459f694dc112a8a564c58e8d5e8464e3337291e9fd3add7d97b2dbdbaac5f820</UniqueId>
+		</Properties>
+		<Item class="LocalScript" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFn4mo552l5nbnasodmasll12laobg6oaanl633emoo1mgamsmm4b15m5lbsd2bll2lggnmd">
+			<Properties>
+				<BinaryString name="AttributesSerialize"/>
+				<bool name="Disabled">false</bool>
+				<Content name="LinkedSource"><null/></Content>
+				<string name="Name">BubbleChatEnabler (READ ME)</string>
+				<string name="ScriptGuid">{1ABE89C8-4DDF-4E47-B36A-439B6693E885}</string>
+				<ProtectedString name="Source">--PUT ME IN REPLICATEDFIRST
+
+local ChatService = game:GetService("Chat")
+ChatService:RegisterChatCallback(Enum.ChatCallbackType.OnCreatingChatWindow, function()
+	return {BubbleChatEnabled = true}
+end)</ProtectedString>
+				<int64 name="SourceAssetId">3511145881</int64>
+				<BinaryString name="Tags"/>
+				<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L81bb6b6b201dfeb98d0e74d0a5a1e4b6a85eaf120141318482eb63c2fd8abbc7312177de06df494f41385e26ef19dc2f93963e587743aeefca415bd66afd35aa3956ae76cd3d4020718260454b7d12a40273306925653cbdad7af75174e8fd4a9188f92deb8947c0be5883be1c68</UniqueId>
+			</Properties>
+		</Item>
+	</Item>
+	<Item class="TweenService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFasoad5633e5anllbab6aie4ome5bobllsoblb4bs2sool15dds6sado5lbbinbdib66coa">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">TweenService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L23a62a0d6279057bd1c6a25d775039bedf47287c64529b34934e4bab44d1f765d6c275ec2c5d73fc74ce3321f16ee32222df5951ae5d834c243deebfe1d7a0e5a07028d5b5873f926d218d8b94745d589c3b5d6432d5d991b0a8785ddc21b5b4856990100db98da5cf063654aadf</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="PermissionsService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFll1ss2o3alaa1cbam5sco56mdnbbbolba6d6l2a1oimia4bogooob1labod332ioi61dso">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">PermissionsService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Ld74e542e0249162073e435f87f80722421e44d52fff604c493837467d785ec5094f3e777f3b2c7b523ff33302cb0bf776bc163df0b70c02834ec085db8a96a48a18d53c56393af6ce5f37b9235bb543610a9a986ede966659c661bcac90ebe24be3ca9989121361aab32875bce11</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="PlayerEmulatorService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFsl1lseabcsnma4i6e4lsb4esm4iall22cdgbebeoibaoalaamla3o6scs3abaob3oslsgl">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<bool name="CustomPoliciesEnabled">false</bool>
+			<string name="EmulatedCountryCode"/>
+			<string name="EmulatedGameLocale"/>
+			<string name="Name">PlayerEmulatorService</string>
+			<bool name="PlayerEmulationEnabled">false</bool>
+			<BinaryString name="SerializedEmulatedPolicyInfo"/>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L0e2f580847d00b28a7b823ecb414792e10b937e37a1b370ab029f206147913c8c480c9f7053675b8390bcb4a54a959fde23ff92afc608cd45c8c78dfc87eadb73323e46da1b945ec3da6de5e06768ed49e2b6b217b4f1d9e5f2a290a826cde8f945a35ff5d9641698303cf1d90c5</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="StudioData" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFbbaaoa6ol3alllg5b4lamoalage5lll4as5o332nbmbsae1o12as3m4cinbbma1bbia2oa">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<int64 name="CommitInflightAuthorId">0</int64>
+			<string name="CommitInflightGuid"/>
+			<int name="CommitInflightPlaceVersion">0</int>
+			<bool name="EnableScriptCollabByDefaultOnLoad">false</bool>
+			<bool name="EnableTeamCreateStreamingOnLoad">false</bool>
+			<string name="Name">StudioData</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<int64 name="SrcPlaceId">8604207198</int64>
+			<int64 name="SrcUniverseId">3276925039</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L0c6c2dcbf9513c87b3f49641d84e3ca5262b096cb798704018798196dbc2bfb3c678887d3660e2fc6e42d767b04edbba44ae02caed30731a1a620513e41966cddf1a64b726ab7d9225c8581247231e652405768e785c61e9ef386fa6a2ad3b432f29c0fc5e810da5f75b1b5a8266</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="StarterPlayer" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFmm5bsabedobbdslia3ababbms5emeln1blbmll1emabme4cbbl2eobia1een2sbag4lg3s">
+		<Properties>
+			<bool name="AllowCustomAnimations">true</bool>
+			<BinaryString name="AttributesSerialize"/>
+			<bool name="AutoJumpEnabled">true</bool>
+			<float name="CameraMaxZoomDistance">128</float>
+			<float name="CameraMinZoomDistance">0.5</float>
+			<token name="CameraMode">0</token>
+			<float name="CharacterJumpHeight">7.19999981</float>
+			<float name="CharacterJumpPower">50</float>
+			<float name="CharacterMaxSlopeAngle">89</float>
+			<bool name="CharacterUseJumpPower">true</bool>
+			<float name="CharacterWalkSpeed">16</float>
+			<token name="DevCameraOcclusionMode">0</token>
+			<token name="DevComputerCameraMovementMode">0</token>
+			<token name="DevComputerMovementMode">0</token>
+			<token name="DevTouchCameraMovementMode">0</token>
+			<token name="DevTouchMovementMode">0</token>
+			<bool name="EnableMouseLockOption">true</bool>
+			<int64 name="GameSettingsAssetIDFace">0</int64>
+			<int64 name="GameSettingsAssetIDHead">0</int64>
+			<int64 name="GameSettingsAssetIDLeftArm">0</int64>
+			<int64 name="GameSettingsAssetIDLeftLeg">0</int64>
+			<int64 name="GameSettingsAssetIDPants">0</int64>
+			<int64 name="GameSettingsAssetIDRightArm">0</int64>
+			<int64 name="GameSettingsAssetIDRightLeg">0</int64>
+			<int64 name="GameSettingsAssetIDShirt">0</int64>
+			<int64 name="GameSettingsAssetIDTeeShirt">0</int64>
+			<int64 name="GameSettingsAssetIDTorso">0</int64>
+			<token name="GameSettingsAvatar">1</token>
+			<token name="GameSettingsR15Collision">0</token>
+			<NumberRange name="GameSettingsScaleRangeBodyType">0 1 </NumberRange>
+			<NumberRange name="GameSettingsScaleRangeHead">0.95 1 </NumberRange>
+			<NumberRange name="GameSettingsScaleRangeHeight">0.9 1.05 </NumberRange>
+			<NumberRange name="GameSettingsScaleRangeProportion">0 1 </NumberRange>
+			<NumberRange name="GameSettingsScaleRangeWidth">0.7 1 </NumberRange>
+			<float name="HealthDisplayDistance">100</float>
+			<bool name="LoadCharacterAppearance">true</bool>
+			<token name="LoadCharacterLayeredClothing">0</token>
+			<string name="Name">StarterPlayer</string>
+			<float name="NameDisplayDistance">100</float>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1La793fedc72d1b7db8c6fa1ec9428f647750eafa3a91b45d67963835cbe9dcb5a2158c48724c5958f10e8b972393dea13058adf9e4f51c54086e2235cbc522535f055c0df08a1fd535d9af59a9d98673e2146bc65a5da56ac6280236527302e9963a0d31a81e7d68065ec79c20798</UniqueId>
+			<bool name="UserEmotesEnabled">true</bool>
+		</Properties>
+		<Item class="StarterPlayerScripts" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFmmlbc1n33o45onbmglb651a1l1nebgmb5oolbllaom1aeallebasl4emseenba5ellbbmo">
+			<Properties>
+				<BinaryString name="AttributesSerialize"/>
+				<string name="Name">StarterPlayerScripts</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"/>
+				<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lb2808ab9439f411108652a7eb221ef0e0a6593f24847b448fb6ed0a92b216cdb592ae664392ba6db40ab35babf797016e07314754f40d5a5804572bf9b8bc45378e33b1197bd1ccedbc574551b3b60cc9ffdd82cab7f6d0747e5292439a9dae7272d58eafd721759497b13ecd4ad</UniqueId>
+			</Properties>
+			<Item class="LocalScript" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFg63daalbbobe2ollndlab4bbbllbgblblloimnoiogmbddlmbl3nmb2nlclas4memsd53a">
+				<Properties>
+					<BinaryString name="AttributesSerialize"/>
+					<bool name="Disabled">false</bool>
+					<Content name="LinkedSource"><null/></Content>
+					<string name="Name">LocalScript</string>
+					<string name="ScriptGuid">{74A76703-B270-43AC-9BF1-46E5717CC668}</string>
+					<ProtectedString name="Source">assert(game:GetService("Players").LocalPlayer, 'Must be a client script.')
+local gs = game:GetService("GuiService")
+gs.MenuOpened:Connect(function()
+	game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId, game.JobId, game:GetService("Players").LocalPlayer)
+end)</ProtectedString>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"/>
+					<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lfe7e56a0df3862b7d09d2d8e9189f1bd2c07eb8e0b7832c31aca4441f3b7c69a4b37b413a67c28fe2adf68063350d881076241b11d65b416a7026d21c7e4f29015babd21f3824a6c693a562711fd200e26399b5cc3f72a871a7cd5d67ac082d10045eaff7368d705449e45066eb2</UniqueId>
+				</Properties>
+			</Item>
+		</Item>
+		<Item class="StarterCharacterScripts" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFnlam3solaelbsiaoli4lmobla5ldensmalslonn4il6ioe66slallssolao3ol5obloac3">
+			<Properties>
+				<BinaryString name="AttributesSerialize"/>
+				<string name="Name">StarterCharacterScripts</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"/>
+				<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lafeaa1f1b3de19bdf912e916a5180560a76080c724c9d88ff2387d82c99a8d83ce8809ee5cb494d68d48e5de73c579060cada7accd571915154030f0dd7ae334adf8868c9c617f23744d77532b4f54088afbb9c54da6599d8c9c92ed4544cbe12e7002653e2f6c4cb106a15f024b</UniqueId>
+			</Properties>
+			<Item class="Model" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF4mblamogeigln52mga6iclelamaado634gblbmmsnnbagg15sgl4slsaoogblloacleaa5">
+				<Properties>
+					<BinaryString name="AttributesSerialize"/>
+					<token name="LevelOfDetail">0</token>
+					<CoordinateFrame name="ModelMeshCFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SharedString name="ModelMeshData">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+					<Vector3 name="ModelMeshSize">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Vector3>
+					<string name="Name">StarterCharacter</string>
+					<bool name="NeedsPivotMigration">false</bool>
+					<Ref name="PrimaryPart">null</Ref>
+					<int64 name="SourceAssetId">6487667479</int64>
+					<BinaryString name="Tags"/>
+					<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L8abad5c95ecaa1e0bca3f21f91d4a417db14951ac85393d1cac67469372dad5e062c2d031cfd560ccfcee6384bac87cb96f55f73bd93ca2f874d0ca718558d339c20a955a0184e12c7ef6cfc51f01757183a6a159f47be660bbc1494904897d5ec4136b3a801ea652e5704ddd3cd</UniqueId>
+					<OptionalCoordinateFrame name="WorldPivotData">
+						<CFrame>
+							<X>-2.32042289</X>
+							<Y>2.49999905</Y>
+							<Z>8.80908012</Z>
+							<R00>1</R00>
+							<R01>0</R01>
+							<R02>0</R02>
+							<R10>0</R10>
+							<R11>1</R11>
+							<R12>0</R12>
+							<R20>0</R20>
+							<R21>0</R21>
+							<R22>1</R22>
+						</CFrame>
+					</OptionalCoordinateFrame>
+				</Properties>
+				<Item class="Part" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFen4iolsl3b5g4csbdlnmds3o2nm3a3eao5abolmebae4n6accllm2a4lbi3b2l5m44snad">
+					<Properties>
+						<bool name="Anchored">false</bool>
+						<BinaryString name="AttributesSerialize"/>
+						<float name="BackParamA">-0.5</float>
+						<float name="BackParamB">0.5</float>
+						<token name="BackSurface">0</token>
+						<token name="BackSurfaceInput">0</token>
+						<float name="BottomParamA">-0.5</float>
+						<float name="BottomParamB">0.5</float>
+						<token name="BottomSurface">4</token>
+						<token name="BottomSurfaceInput">0</token>
+						<CoordinateFrame name="CFrame">
+							<X>-128979</X>
+							<Y>466830.812</Y>
+							<Z>430764.281</Z>
+							<R00>1</R00>
+							<R01>0</R01>
+							<R02>0</R02>
+							<R10>0</R10>
+							<R11>1</R11>
+							<R12>0</R12>
+							<R20>0</R20>
+							<R21>0</R21>
+							<R22>1</R22>
+						</CoordinateFrame>
+						<bool name="CanCollide">true</bool>
+						<bool name="CanQuery">true</bool>
+						<bool name="CanTouch">true</bool>
+						<bool name="CastShadow">true</bool>
+						<int name="CollisionGroupId">0</int>
+						<Color3uint8 name="Color3uint8">4294298928</Color3uint8>
+						<PhysicalProperties name="CustomPhysicalProperties">
+							<CustomPhysics>false</CustomPhysics>
+						</PhysicalProperties>
+						<float name="FrontParamA">-0.5</float>
+						<float name="FrontParamB">0.5</float>
+						<token name="FrontSurface">0</token>
+						<token name="FrontSurfaceInput">0</token>
+						<float name="LeftParamA">-0.5</float>
+						<float name="LeftParamB">0.5</float>
+						<token name="LeftSurface">0</token>
+						<token name="LeftSurfaceInput">0</token>
+						<bool name="Locked">false</bool>
+						<bool name="Massless">false</bool>
+						<token name="Material">256</token>
+						<string name="MaterialVariantSerialized"/>
+						<string name="Name">Head</string>
+						<CoordinateFrame name="PivotOffset">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+							<R00>1</R00>
+							<R01>0</R01>
+							<R02>0</R02>
+							<R10>0</R10>
+							<R11>1</R11>
+							<R12>0</R12>
+							<R20>0</R20>
+							<R21>0</R21>
+							<R22>1</R22>
+						</CoordinateFrame>
+						<float name="Reflectance">0</float>
+						<float name="RightParamA">-0.5</float>
+						<float name="RightParamB">0.5</float>
+						<token name="RightSurface">0</token>
+						<token name="RightSurfaceInput">0</token>
+						<int name="RootPriority">0</int>
+						<Vector3 name="RotVelocity">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+						</Vector3>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"/>
+						<float name="TopParamA">-0.5</float>
+						<float name="TopParamB">0.5</float>
+						<token name="TopSurface">0</token>
+						<token name="TopSurfaceInput">0</token>
+						<float name="Transparency">0</float>
+						<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lc15725578b4208689a084b1035c540bb60bdfba7277cca43b175423e27249f6547ac81e6121142033667a2607b81be53449faacf1f74ef038bd80f0538b6103ce248ec32056121a752da047bc91abfd7f106d6daca3393c057fcc7343c032384811a74bac41eb6fbad0aef9fec88</UniqueId>
+						<Vector3 name="Velocity">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+						</Vector3>
+						<token name="formFactorRaw">0</token>
+						<token name="shape">1</token>
+						<Vector3 name="size">
+							<X>2</X>
+							<Y>1</Y>
+							<Z>1</Z>
+						</Vector3>
+					</Properties>
+					<Item class="SpecialMesh" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFlsmoglns4aoalsaln3s2absoab6bo1doollna5abgaoolaga6s3gell1lob2acoebslll6">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<token name="LODX">2</token>
+							<token name="LODY">2</token>
+							<Content name="MeshId"><null/></Content>
+							<token name="MeshType">0</token>
+							<string name="Name">Mesh</string>
+							<Vector3 name="Offset">
+								<X>0</X>
+								<Y>0</Y>
+								<Z>0</Z>
+							</Vector3>
+							<Vector3 name="Scale">
+								<X>1.25</X>
+								<Y>1.25</Y>
+								<Z>1.25</Z>
+							</Vector3>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<Content name="TextureId"><null/></Content>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Ld67942eb1eb9e2ed6f427322fb8e666af895d3b3715e4eca48b7921ed06bbfae1a37830659a9fcf7efff85f271060c16937e347d90e1f3b09cd86154faed452726475ebac6cc3e1222f7b9e2ddc9b6132cc1e1020111a9a0d9c5d23a573b2b460115cc5f96cabb23509f87b2ca47</UniqueId>
+							<Vector3 name="VertexColor">
+								<X>1</X>
+								<Y>1</Y>
+								<Z>1</Z>
+							</Vector3>
+						</Properties>
+					</Item>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFg6sasdgole6g6lm5ioomnmamosmoaccsg4becllcaombam21isallnobgaimobblalc4be">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>0</X>
+								<Y>0.600000024</Y>
+								<Z>0</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">HairAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lf38a8ec183f69633aa26e73ba7d4ba6dd456f6ad802061618930ec7a55d498c2685d5eca63b885ffb7b743825036fb2e081f86159fe417287e50cc376a41016eb4899ef066f903dd4604efc34d92fd8e794487cbb1d409da9577047d00f8a69b0b796f3e82415a205d18e294aa21</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFn5doblmdocnllll1co1a6sgaco4calmldaio1ellal5bs5s3onbooolm1egnag1noasdda">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>0</X>
+								<Y>0.600000024</Y>
+								<Z>0</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">HatAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Le993a8edefeef55794230ad9d7f6a956e3c2a511e314243552a96dc986045c3fdba52a6672079d8102fdc9ff7107b1f70624fd70be8e67a18347e1cc466736771da9ae742ac3669a24705b64d014efb39dd6ffd4f81b9b90e5064c8ad7c78a229785280bcc1710d39047931dd439</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFglaaoa1bcbgmlb2deod4bbel3a2ossga6mlsin35mba5odlb5bcamaablcobaoo4odisbs">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>0</X>
+								<Y>0</Y>
+								<Z>-0.600000024</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">FaceFrontAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L3b96ff341157a22c16cad6ad658a8f34ac201d52f03adb929f1bafea8a385a3cba498eac64c647060a9db5bacadf4a1df473b3599b37523af52c3ceaf9bfa79e6b1f0090c24159ddf574e610ed2ce96c2895c7a54c4a09366313e7d90abbf77fafdb04130f3f955a9eb22b96ef36</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFbbmala6bmlcleblalnnbmdlb1l6lasanennl4ame32c4ll3bnb5aiiaaasmlegng23l2ss">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>0</X>
+								<Y>0</Y>
+								<Z>0</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">FaceCenterAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L56848ef53bb8bf0f58089a5c53ada1306d7c927f7410303f3ba8bcbc1d1ee9b377a81f87ba6b6a04bf0d0da2662eefa30651e92edcb47931e773fe61dd64643f17beae107bb7f62a57ed894959d362a04f8ca895f517d36ba4249e66af86b6effa281a140868c157f3e895c58919</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+					<Item class="Decal" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFniob3a54blogalgnol5odlanal45lo55bsm2iomlsaoclclgasomgcolo4nbsdnanab641">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<Color3 name="Color3">
+								<R>1</R>
+								<G>1</G>
+								<B>1</B>
+							</Color3>
+							<token name="Face">5</token>
+							<string name="Name">face</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<Content name="Texture"><url>rbxasset://textures/face.png</url></Content>
+							<float name="Transparency">0</float>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lad10510ff209b95ff2a78d59c2bb733bb83c6449c9ec2e567a819f4e35318e9b166484d9b1c12156b041742371ffdc3e0e3d6084957f68173da0e1253d62bf0a4d613d59ff8082d2f7954d389e92318f6ef93f36f4ec33bfef86a2baeb08031eeefcaea11be7b6bf8da7f8769661</UniqueId>
+							<int name="ZIndex">1</int>
+						</Properties>
+					</Item>
+				</Item>
+				<Item class="Part" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFab6i5laaoaig3modane3caalcobaln2l6ilbaidbaallllloloo1sb1idgmlcon1e3ga2n">
+					<Properties>
+						<bool name="Anchored">false</bool>
+						<BinaryString name="AttributesSerialize"/>
+						<float name="BackParamA">-0.5</float>
+						<float name="BackParamB">0.5</float>
+						<token name="BackSurface">0</token>
+						<token name="BackSurfaceInput">0</token>
+						<float name="BottomParamA">-0.5</float>
+						<float name="BottomParamB">0.5</float>
+						<token name="BottomSurface">4</token>
+						<token name="BottomSurfaceInput">0</token>
+						<CoordinateFrame name="CFrame">
+							<X>-128979</X>
+							<Y>466829.312</Y>
+							<Z>430764.281</Z>
+							<R00>1</R00>
+							<R01>0</R01>
+							<R02>0</R02>
+							<R10>0</R10>
+							<R11>1</R11>
+							<R12>0</R12>
+							<R20>0</R20>
+							<R21>0</R21>
+							<R22>1</R22>
+						</CoordinateFrame>
+						<bool name="CanCollide">true</bool>
+						<bool name="CanQuery">true</bool>
+						<bool name="CanTouch">true</bool>
+						<bool name="CastShadow">true</bool>
+						<int name="CollisionGroupId">0</int>
+						<Color3uint8 name="Color3uint8">4279069100</Color3uint8>
+						<PhysicalProperties name="CustomPhysicalProperties">
+							<CustomPhysics>false</CustomPhysics>
+						</PhysicalProperties>
+						<float name="FrontParamA">-0.5</float>
+						<float name="FrontParamB">0.5</float>
+						<token name="FrontSurface">0</token>
+						<token name="FrontSurfaceInput">0</token>
+						<float name="LeftParamA">0</float>
+						<float name="LeftParamB">0</float>
+						<token name="LeftSurface">2</token>
+						<token name="LeftSurfaceInput">0</token>
+						<bool name="Locked">false</bool>
+						<bool name="Massless">false</bool>
+						<token name="Material">256</token>
+						<string name="MaterialVariantSerialized"/>
+						<string name="Name">Torso</string>
+						<CoordinateFrame name="PivotOffset">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+							<R00>1</R00>
+							<R01>0</R01>
+							<R02>0</R02>
+							<R10>0</R10>
+							<R11>1</R11>
+							<R12>0</R12>
+							<R20>0</R20>
+							<R21>0</R21>
+							<R22>1</R22>
+						</CoordinateFrame>
+						<float name="Reflectance">0</float>
+						<float name="RightParamA">0</float>
+						<float name="RightParamB">0</float>
+						<token name="RightSurface">2</token>
+						<token name="RightSurfaceInput">0</token>
+						<int name="RootPriority">0</int>
+						<Vector3 name="RotVelocity">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+						</Vector3>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"/>
+						<float name="TopParamA">-0.5</float>
+						<float name="TopParamB">0.5</float>
+						<token name="TopSurface">3</token>
+						<token name="TopSurfaceInput">0</token>
+						<float name="Transparency">0</float>
+						<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1La52be4e94c5fa16a95838d51222dd344190ef47ac413998b5b0a808229e8ac1ccb9f89fe5dca159bcbc9b728e6b164771c8ddc1545b3d0a9f77900c0bd106e047ac82230f2f58576a058bc7470b126fd3b6e8d1db033fff6449a08ee8193325ac979c6620b9cfaaf71e4015f2d8e</UniqueId>
+						<Vector3 name="Velocity">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+						</Vector3>
+						<token name="formFactorRaw">0</token>
+						<token name="shape">1</token>
+						<Vector3 name="size">
+							<X>2</X>
+							<Y>2</Y>
+							<Z>1</Z>
+						</Vector3>
+					</Properties>
+					<Item class="Decal" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFlbanniadbab1o2n4olscsid5soa5ni1de1imm3ssmbbd6n23msgllmbbobesmni1leanol">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<Color3 name="Color3">
+								<R>1</R>
+								<G>1</G>
+								<B>1</B>
+							</Color3>
+							<token name="Face">5</token>
+							<string name="Name">roblox</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<Content name="Texture"><null/></Content>
+							<float name="Transparency">0</float>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L38eb37a141a1f21a7237bb28ee8f30ca49ec58aab18e27b41bdc7e6c48c9d3672f12cc7a119ab1f7426e30cab87866554134311ed47853b166476ad08ac5366717fc80279749cd2c068db5b505b10e013825fcdfb5205f2e608f2356e06e642e8ea1fc3b1a38df60b4e9ad81b5fd</UniqueId>
+							<int name="ZIndex">1</int>
+						</Properties>
+					</Item>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFac1aoabblab1nl5alelnlda2aladsnmni4ngcoao1ioa4ssambn5aasmmoacc342idn3gl">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>0</X>
+								<Y>1</Y>
+								<Z>0</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">NeckAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L257f0168bf53d5e9d1cba9c4fd8089a3db514cce98d04f23f26cd9b45e9f4b0a0075acd96afe6a479537268f7e959a21933e5f31ac3737dbc1ada8ba768a422ab14ada96f22c5737048c397a28b8da5baa06d5269ce8d511a443712be74cd110c39965c2d7ad74873204d3653d01</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFgeoen5aonloens3on3m1loc6blaaic4ola3imeg3bcnncocao4labo6dgbebanolica4mb">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>0</X>
+								<Y>0</Y>
+								<Z>-0.5</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">BodyFrontAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Le7cf51989c238b1703167c066246b9824b8688209986e7026ee90f8f68d7de2d50a311fff1814b2e3919b719349633579009b9f21b0e1be2153e3123a63b1a15336e9cefe25ef73e0a260384f143e5ed26da06e95137c3222201434a163ae29d03b98e67ab05682422b7f3a35aed</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFgamcaee3b3bn25ool4olblbmbllas2ooa4lnsclaanas1smaol1laols2nlbnobaoaoels">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>0</X>
+								<Y>0</Y>
+								<Z>0.5</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">BodyBackAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L8eb3a774e243c9dcadb189af8f46ad7801a53f2021d42ff06efaa8a1fe0d1b8198e4c2c435b8cfb5e48a3d3c2012c00cbafc93ee522f5b1ed7840c58d773a7b4c83577205c5e48480b58034de67276af7694ce5a20b19285d484c583a71ce536d84af818e44bf25a935c371d4c64</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFiabmnsaclamma1g2o2og21lla2b3lnsomomcllmb2mleaagobcd1isnmboal42n4i6omlb">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>-1</X>
+								<Y>1</Y>
+								<Z>0</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">LeftCollarAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Ldb2a79f9fee0809c6cecbe195305b174290f2c18158bd442cd1b46cb6684c4277d4b1e55344caed55b90a541871a73b33cb433bfaa88e7e4d1eadf0c1325ebb74b653575cd91bf898255c3d4c474d843567d8fe8582d0bd3d0deaa22d81e4009319e66c8bd589e44b800d28e373f</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFc25osl12bo2ogclm1aga4asnao4ane5emdboledsm3m34b5aoacbsnm4daodcoolnnsb15">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>1</X>
+								<Y>1</Y>
+								<Z>0</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">RightCollarAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L7f3f8f13cc8257c17e181373c15764dae8cc6788e7ae49d65f2bca48d25ea0a1a09895b3e06259e71bab9b3c3195e3a2c7af6d78cd2921deb8f58a386218bbab566083d4ad3fef3833fef6929207851ce76c0726eaad03464f77fcfaf6fd095855b30adab4030a026ba3bca0878a</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFg5nlab5b1al6snmin2m12dbcclslol3maooaocaoln3alsaaaleo26na4amalsmdmeasna">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>0</X>
+								<Y>-1</Y>
+								<Z>-0.5</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">WaistFrontAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1La7d081d5aa60dab6b4cb3fd7a3b32af8a2d5f39a3204e82f5ab5dadc4e7739a7c15a2abecab1812017692ab5c8d8af2e392320c2815412c7efc108d198559713eede14612396846047a68fa7f1906e3e3ebce2112e0856795eff2ee656ed9b55961cf7082193baa99e5a27f253a4</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF6mnsoeodmlaalmoasilboc4babaadns6i6bn34oblsolab4smanmliol1on2boabaie1ml">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>0</X>
+								<Y>-1</Y>
+								<Z>0</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">WaistCenterAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lb2e31b6bc478f37507a7b724b79bbccd0088ccf7adb06ce594005ebaf4cf329bef5d252e133f832ce4e001850d470596bde68b32f81274f6121e7ba34cf4dc7f4b6d04b92914a27e3cecabf8d77742cb99b027accce385522380023e7cbabaf163f31b018d2475bf87370ac02342</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFmbobcdm6ilolalaob34aab32lsmnnnlo156b5le6s5s3dld6g1l4csmn46s4lalbaobc4a">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>0</X>
+								<Y>-1</Y>
+								<Z>0.5</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">WaistBackAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L343c6e825362b8aae12b2c51a479c99b834259e0a42c436da9e2dbf64bfacd7df1d7d3abb6599cd6ecbb5c65ddabc599cc7c31e92adb3f9a58937f68c47ad5a362b32ac0886a69fd788fc1ab3a98a10a8bd6ab4b9cc3fb0545888de6782ab8187f667e788a96a18485c560ac7708</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+					<Item class="Motor6D" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFslmmn4cbabs3obmsl4lonoa44nboocia3ldaial6nmbbaadggl2gsml6llsgc4mllosona">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="C0">
+								<X>1</X>
+								<Y>0.5</Y>
+								<Z>0</Z>
+								<R00>0</R00>
+								<R01>0</R01>
+								<R02>1</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>-0</R12>
+								<R20>-1</R20>
+								<R21>0</R21>
+								<R22>0</R22>
+							</CoordinateFrame>
+							<CoordinateFrame name="C1">
+								<X>-0.5</X>
+								<Y>0.5</Y>
+								<Z>0</Z>
+								<R00>0</R00>
+								<R01>0</R01>
+								<R02>1</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>-0</R12>
+								<R20>-1</R20>
+								<R21>0</R21>
+								<R22>0</R22>
+							</CoordinateFrame>
+							<float name="DesiredAngle">0</float>
+							<bool name="Enabled">true</bool>
+							<float name="MaxVelocity">0.100000001</float>
+							<string name="Name">Right Shoulder</string>
+							<Ref name="Part0">null</Ref>
+							<Ref name="Part1">null</Ref>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Le763b0fed65197ece368e25d78baf19c9f320b7686aa69609a6d77b116ee27e1d1d1d0b1e7e686fdb1ad85787ff6df9bd373172404223ba06e1b2eb64ba12ba73104a0c14b6768b94ce5e81fb0187f0ec04c9df1623870888fbb5a0a4b2c3bdbe09a8a238065768e74cb5d3f480b</UniqueId>
+						</Properties>
+					</Item>
+					<Item class="Motor6D" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFaim4mon2maoambaoanb5sla1o1an3oos5ab24bnbsaelgeadanagboanalmoo4bslbea5i">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="C0">
+								<X>-1</X>
+								<Y>0.5</Y>
+								<Z>0</Z>
+								<R00>0</R00>
+								<R01>0</R01>
+								<R02>-1</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>1</R20>
+								<R21>0</R21>
+								<R22>0</R22>
+							</CoordinateFrame>
+							<CoordinateFrame name="C1">
+								<X>0.5</X>
+								<Y>0.5</Y>
+								<Z>0</Z>
+								<R00>0</R00>
+								<R01>0</R01>
+								<R02>-1</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>1</R20>
+								<R21>0</R21>
+								<R22>0</R22>
+							</CoordinateFrame>
+							<float name="DesiredAngle">0</float>
+							<bool name="Enabled">true</bool>
+							<float name="MaxVelocity">0.100000001</float>
+							<string name="Name">Left Shoulder</string>
+							<Ref name="Part0">null</Ref>
+							<Ref name="Part1">null</Ref>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L291993a8508195cb1d221262d7b61a268866eeeea249a991634c9e67f9530f4068c15032679a3b2b688bf048aa32c1e19afccd3baf12a0dd934f159803d8f3e95c6ba51d316161d3896834ffe6b6f4bd5b07483d457ad21e533d9a032fa577f7e12dcddca8ee57dca5ffc18e0a89</UniqueId>
+						</Properties>
+					</Item>
+					<Item class="Motor6D" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFoali1io5ass4mbblo1aegileoa1amnb5d3i4cndn5doainb2slma4l422s6em5m3adasaa">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="C0">
+								<X>1</X>
+								<Y>-1</Y>
+								<Z>0</Z>
+								<R00>0</R00>
+								<R01>0</R01>
+								<R02>1</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>-0</R12>
+								<R20>-1</R20>
+								<R21>0</R21>
+								<R22>0</R22>
+							</CoordinateFrame>
+							<CoordinateFrame name="C1">
+								<X>0.5</X>
+								<Y>1</Y>
+								<Z>0</Z>
+								<R00>0</R00>
+								<R01>0</R01>
+								<R02>1</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>-0</R12>
+								<R20>-1</R20>
+								<R21>0</R21>
+								<R22>0</R22>
+							</CoordinateFrame>
+							<float name="DesiredAngle">0</float>
+							<bool name="Enabled">true</bool>
+							<float name="MaxVelocity">0.100000001</float>
+							<string name="Name">Right Hip</string>
+							<Ref name="Part0">null</Ref>
+							<Ref name="Part1">null</Ref>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Ldd5fd4dd9dfdaef07c709fe4e1c2c3602f4ca1e72f7c203c9b9197bc84357ff5455d847aa53208f470bc27802636d1e9ca2961c087496476fc0022ac2dcdbc7acce47cc0f9b6d1a1300643f61bd4884fa44515c8a7814749289e6c09473155ab0b7a0d673fb515452db3bc9484f0</UniqueId>
+						</Properties>
+					</Item>
+					<Item class="Motor6D" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFnooolglo1llelas1obcaln4imdsos6am2csel4nlssmase42lld4a3ica3aa2malblaaam">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="C0">
+								<X>-1</X>
+								<Y>-1</Y>
+								<Z>0</Z>
+								<R00>0</R00>
+								<R01>0</R01>
+								<R02>-1</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>1</R20>
+								<R21>0</R21>
+								<R22>0</R22>
+							</CoordinateFrame>
+							<CoordinateFrame name="C1">
+								<X>-0.5</X>
+								<Y>1</Y>
+								<Z>0</Z>
+								<R00>0</R00>
+								<R01>0</R01>
+								<R02>-1</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>1</R20>
+								<R21>0</R21>
+								<R22>0</R22>
+							</CoordinateFrame>
+							<float name="DesiredAngle">0</float>
+							<bool name="Enabled">true</bool>
+							<float name="MaxVelocity">0.100000001</float>
+							<string name="Name">Left Hip</string>
+							<Ref name="Part0">null</Ref>
+							<Ref name="Part1">null</Ref>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L6a7c00b01c093b2f76028daedd58dd219084e61c27a6aa5bf9487b62817193a88f1cdb81f79815e307c633e1779769c3cd06b499a041b313fbd849ab2fef567dbbb9b65510c02b25f4a5f50aed5293126927bf9917d889c75a1030ed04e4883f3bc563552ce5377d377a12c71eb6</UniqueId>
+						</Properties>
+					</Item>
+					<Item class="Motor6D" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFmio2lo2g3mads2646da3losodol4nag6oa5a6lblsm35leolca3abisnb25mbilmnlooeg">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="C0">
+								<X>0</X>
+								<Y>1</Y>
+								<Z>0</Z>
+								<R00>-1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>0</R11>
+								<R12>1</R12>
+								<R20>0</R20>
+								<R21>1</R21>
+								<R22>-0</R22>
+							</CoordinateFrame>
+							<CoordinateFrame name="C1">
+								<X>0</X>
+								<Y>-0.5</Y>
+								<Z>0</Z>
+								<R00>-1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>0</R11>
+								<R12>1</R12>
+								<R20>0</R20>
+								<R21>1</R21>
+								<R22>-0</R22>
+							</CoordinateFrame>
+							<float name="DesiredAngle">0</float>
+							<bool name="Enabled">true</bool>
+							<float name="MaxVelocity">0.100000001</float>
+							<string name="Name">Neck</string>
+							<Ref name="Part0">null</Ref>
+							<Ref name="Part1">null</Ref>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lf56ae9036ab08cec82b701122e7622adcb3089444f03cd9fb6397df5d40e78e9127882fbaa610788183936d94b6a40a5ae2bba147274b13c9593ddd68ecfcfa155987d7d98d57542227049cbe4e87a99926497748150d5142172795abcc600973050841f1b33b0da850d962b5eba</UniqueId>
+						</Properties>
+					</Item>
+				</Item>
+				<Item class="Part" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFi3a2bnle3ll32sm4d2g6iob4o5aaa4eal25nassooincbdbbeallb31llmli1icso663mb">
+					<Properties>
+						<bool name="Anchored">false</bool>
+						<BinaryString name="AttributesSerialize"/>
+						<float name="BackParamA">-0.5</float>
+						<float name="BackParamB">0.5</float>
+						<token name="BackSurface">0</token>
+						<token name="BackSurfaceInput">0</token>
+						<float name="BottomParamA">-0.5</float>
+						<float name="BottomParamB">0.5</float>
+						<token name="BottomSurface">4</token>
+						<token name="BottomSurfaceInput">0</token>
+						<CoordinateFrame name="CFrame">
+							<X>-128980.5</X>
+							<Y>466829.312</Y>
+							<Z>430764.281</Z>
+							<R00>1</R00>
+							<R01>0</R01>
+							<R02>0</R02>
+							<R10>0</R10>
+							<R11>1</R11>
+							<R12>0</R12>
+							<R20>0</R20>
+							<R21>0</R21>
+							<R22>1</R22>
+						</CoordinateFrame>
+						<bool name="CanCollide">false</bool>
+						<bool name="CanQuery">true</bool>
+						<bool name="CanTouch">true</bool>
+						<bool name="CastShadow">true</bool>
+						<int name="CollisionGroupId">0</int>
+						<Color3uint8 name="Color3uint8">4294298928</Color3uint8>
+						<PhysicalProperties name="CustomPhysicalProperties">
+							<CustomPhysics>false</CustomPhysics>
+						</PhysicalProperties>
+						<float name="FrontParamA">-0.5</float>
+						<float name="FrontParamB">0.5</float>
+						<token name="FrontSurface">0</token>
+						<token name="FrontSurfaceInput">0</token>
+						<float name="LeftParamA">-0.5</float>
+						<float name="LeftParamB">0.5</float>
+						<token name="LeftSurface">0</token>
+						<token name="LeftSurfaceInput">0</token>
+						<bool name="Locked">false</bool>
+						<bool name="Massless">false</bool>
+						<token name="Material">256</token>
+						<string name="MaterialVariantSerialized"/>
+						<string name="Name">Left Arm</string>
+						<CoordinateFrame name="PivotOffset">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+							<R00>1</R00>
+							<R01>0</R01>
+							<R02>0</R02>
+							<R10>0</R10>
+							<R11>1</R11>
+							<R12>0</R12>
+							<R20>0</R20>
+							<R21>0</R21>
+							<R22>1</R22>
+						</CoordinateFrame>
+						<float name="Reflectance">0</float>
+						<float name="RightParamA">-0.5</float>
+						<float name="RightParamB">0.5</float>
+						<token name="RightSurface">0</token>
+						<token name="RightSurfaceInput">0</token>
+						<int name="RootPriority">0</int>
+						<Vector3 name="RotVelocity">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+						</Vector3>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"/>
+						<float name="TopParamA">-0.5</float>
+						<float name="TopParamB">0.5</float>
+						<token name="TopSurface">3</token>
+						<token name="TopSurfaceInput">0</token>
+						<float name="Transparency">0</float>
+						<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lf2546980defdda399915b44b97b5219e3e2c0f0a14d305301908397d6561593efdd97b780c488760b74b02940ab39d0fc03545573adb845a6a6f018e9c74418a2e1a9263ab2edba840abdb2e93e8270e04026e7c7e3244880330b988dda4fcc126434f1ae963466449139172a1a2</UniqueId>
+						<Vector3 name="Velocity">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+						</Vector3>
+						<token name="formFactorRaw">0</token>
+						<token name="shape">1</token>
+						<Vector3 name="size">
+							<X>1</X>
+							<Y>2</Y>
+							<Z>1</Z>
+						</Vector3>
+					</Properties>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFd1l2alannmao64o1olo4ble5ab33boasinod1oolemm6bnbaaoalda51ol3obonciblsbd">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>0</X>
+								<Y>1</Y>
+								<Z>0</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">LeftShoulderAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L2a6b5e1be77a8d814329debc5c1e763c18c64ea0441d97fa3fcd401f03cb4cb9df6eb0c5c7b9e44dcd2fd945bab69c94b9b378954288b2be3d04aad6aaf5d3be401a00883bb9b89ffe6a2eb20cc44407af0b411f0ecc6e4b7ac5dbdc86d8266c94158b1ac4d37d6fe1cd32b4f420</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFla4aboeocg55nmibaab21bossn61s2oolbolss6ccg52lo21a45sbbo6cma65lsoolllel">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>0</X>
+								<Y>-1</Y>
+								<Z>0</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">LeftGripAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L7d797618986f06b29a78e2fb9828b3f35c67219c4c1af8c317b16f60e69fd16524111b4f0f59959f6de521960d93ecd2e6f9b5213f045da918fbab07c5f7c4a01194aa90869eb9db1a5adc215bb1de094c193675f53baf67e998170b511de95772d4fd61e1a0d44ce40dcfeeda1e</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+				</Item>
+				<Item class="Part" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFmsann34amcs4mblbms23lollsmdo3ocg41bambnscnbinn1nl6eoi5an1endoaa5lelbm3">
+					<Properties>
+						<bool name="Anchored">false</bool>
+						<BinaryString name="AttributesSerialize"/>
+						<float name="BackParamA">-0.5</float>
+						<float name="BackParamB">0.5</float>
+						<token name="BackSurface">0</token>
+						<token name="BackSurfaceInput">0</token>
+						<float name="BottomParamA">-0.5</float>
+						<float name="BottomParamB">0.5</float>
+						<token name="BottomSurface">4</token>
+						<token name="BottomSurfaceInput">0</token>
+						<CoordinateFrame name="CFrame">
+							<X>-128977.5</X>
+							<Y>466829.312</Y>
+							<Z>430764.281</Z>
+							<R00>1</R00>
+							<R01>0</R01>
+							<R02>0</R02>
+							<R10>0</R10>
+							<R11>1</R11>
+							<R12>0</R12>
+							<R20>0</R20>
+							<R21>0</R21>
+							<R22>1</R22>
+						</CoordinateFrame>
+						<bool name="CanCollide">false</bool>
+						<bool name="CanQuery">true</bool>
+						<bool name="CanTouch">true</bool>
+						<bool name="CastShadow">true</bool>
+						<int name="CollisionGroupId">0</int>
+						<Color3uint8 name="Color3uint8">4294298928</Color3uint8>
+						<PhysicalProperties name="CustomPhysicalProperties">
+							<CustomPhysics>false</CustomPhysics>
+						</PhysicalProperties>
+						<float name="FrontParamA">-0.5</float>
+						<float name="FrontParamB">0.5</float>
+						<token name="FrontSurface">0</token>
+						<token name="FrontSurfaceInput">0</token>
+						<float name="LeftParamA">-0.5</float>
+						<float name="LeftParamB">0.5</float>
+						<token name="LeftSurface">0</token>
+						<token name="LeftSurfaceInput">0</token>
+						<bool name="Locked">false</bool>
+						<bool name="Massless">false</bool>
+						<token name="Material">256</token>
+						<string name="MaterialVariantSerialized"/>
+						<string name="Name">Right Arm</string>
+						<CoordinateFrame name="PivotOffset">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+							<R00>1</R00>
+							<R01>0</R01>
+							<R02>0</R02>
+							<R10>0</R10>
+							<R11>1</R11>
+							<R12>0</R12>
+							<R20>0</R20>
+							<R21>0</R21>
+							<R22>1</R22>
+						</CoordinateFrame>
+						<float name="Reflectance">0</float>
+						<float name="RightParamA">-0.5</float>
+						<float name="RightParamB">0.5</float>
+						<token name="RightSurface">0</token>
+						<token name="RightSurfaceInput">0</token>
+						<int name="RootPriority">0</int>
+						<Vector3 name="RotVelocity">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+						</Vector3>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"/>
+						<float name="TopParamA">-0.5</float>
+						<float name="TopParamB">0.5</float>
+						<token name="TopSurface">3</token>
+						<token name="TopSurfaceInput">0</token>
+						<float name="Transparency">0</float>
+						<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L6ef251b491d52fd5b75d756c651bfec7b6a0627334c52a4dd62963461aaef1701cf249ffccce2d3163766ac3b4d00ebf7fe3a14634fe6ea14479686db8ee8fdfb7d4c581ab506365ac4a9284e0a5bfb872475f88683b278004f13256276a2f55e29f3b349f3b5915230c5c613075</UniqueId>
+						<Vector3 name="Velocity">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+						</Vector3>
+						<token name="formFactorRaw">0</token>
+						<token name="shape">1</token>
+						<Vector3 name="size">
+							<X>1</X>
+							<Y>2</Y>
+							<Z>1</Z>
+						</Vector3>
+					</Properties>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFs5m45isl3obes6416abli2og5g3a3ol3slccaoina4albom6ol3soecs22lsan3boblem2">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>0</X>
+								<Y>1</Y>
+								<Z>0</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">RightShoulderAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L393331c490e4b4379285ac8ee599d5d45a794a9e5ddde18b1d4141e95be4c35f1b7ebae1d040ba9636be2b122ef47d851a22fbd2b1a2386e04c8de97a8767b2c028a6e2ec7f7c1a45198133bc9a33d4212dcc2178dd5c86a9f5975cf6bb6d308d3abc83dd94af6d443885cd5a0f0</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFbbo5l1aobbslmb6ssblgaslnicboocloosbgb5i25nabdg6smldabnba4adc22cals1432">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>0</X>
+								<Y>-1</Y>
+								<Z>0</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">RightGripAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L5894fa4107bcda3351e00fbde817c803fd4694157afc1a5971a8b6ed6f82f62a26083392ac0fa9c29779e063d4c64824d98af944bf42256f2d862f6429db865ab579c7df7cc4deece1c80575a7c99563644efda413164bb3d096c241a19f9e25c66898aa55c420365fe758ea67c0</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+				</Item>
+				<Item class="Part" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFbao3gbc33momgl6nac26edn4sbaaiclnlic35o3nm66a3c3naboemiom5dsbnonabbonns">
+					<Properties>
+						<bool name="Anchored">false</bool>
+						<BinaryString name="AttributesSerialize"/>
+						<float name="BackParamA">-0.5</float>
+						<float name="BackParamB">0.5</float>
+						<token name="BackSurface">0</token>
+						<token name="BackSurfaceInput">0</token>
+						<float name="BottomParamA">-0.5</float>
+						<float name="BottomParamB">0.5</float>
+						<token name="BottomSurface">0</token>
+						<token name="BottomSurfaceInput">0</token>
+						<CoordinateFrame name="CFrame">
+							<X>-128979.5</X>
+							<Y>466827.312</Y>
+							<Z>430764.281</Z>
+							<R00>1</R00>
+							<R01>0</R01>
+							<R02>0</R02>
+							<R10>0</R10>
+							<R11>1</R11>
+							<R12>0</R12>
+							<R20>0</R20>
+							<R21>0</R21>
+							<R22>1</R22>
+						</CoordinateFrame>
+						<bool name="CanCollide">false</bool>
+						<bool name="CanQuery">true</bool>
+						<bool name="CanTouch">true</bool>
+						<bool name="CastShadow">true</bool>
+						<int name="CollisionGroupId">0</int>
+						<Color3uint8 name="Color3uint8">4288986439</Color3uint8>
+						<PhysicalProperties name="CustomPhysicalProperties">
+							<CustomPhysics>false</CustomPhysics>
+						</PhysicalProperties>
+						<float name="FrontParamA">-0.5</float>
+						<float name="FrontParamB">0.5</float>
+						<token name="FrontSurface">0</token>
+						<token name="FrontSurfaceInput">0</token>
+						<float name="LeftParamA">-0.5</float>
+						<float name="LeftParamB">0.5</float>
+						<token name="LeftSurface">0</token>
+						<token name="LeftSurfaceInput">0</token>
+						<bool name="Locked">false</bool>
+						<bool name="Massless">false</bool>
+						<token name="Material">256</token>
+						<string name="MaterialVariantSerialized"/>
+						<string name="Name">Left Leg</string>
+						<CoordinateFrame name="PivotOffset">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+							<R00>1</R00>
+							<R01>0</R01>
+							<R02>0</R02>
+							<R10>0</R10>
+							<R11>1</R11>
+							<R12>0</R12>
+							<R20>0</R20>
+							<R21>0</R21>
+							<R22>1</R22>
+						</CoordinateFrame>
+						<float name="Reflectance">0</float>
+						<float name="RightParamA">-0.5</float>
+						<float name="RightParamB">0.5</float>
+						<token name="RightSurface">0</token>
+						<token name="RightSurfaceInput">0</token>
+						<int name="RootPriority">0</int>
+						<Vector3 name="RotVelocity">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+						</Vector3>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"/>
+						<float name="TopParamA">-0.5</float>
+						<float name="TopParamB">0.5</float>
+						<token name="TopSurface">3</token>
+						<token name="TopSurfaceInput">0</token>
+						<float name="Transparency">0</float>
+						<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L25455642b8bccda5b937558f0022e6b656c40ec79fd71b68a68fd0ced89b7d6b525f5c209fc71e07ea137e16c755dcc46ea286daade19a27ba469af63cb2b1a5cf58c7b9f0ddfcbf37b16549dcbebea79728574b8f38583b14742fa612b25d54ca96ec25d2dc49cc6773cb1d5984</UniqueId>
+						<Vector3 name="Velocity">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+						</Vector3>
+						<token name="formFactorRaw">0</token>
+						<token name="shape">1</token>
+						<Vector3 name="size">
+							<X>1</X>
+							<Y>2</Y>
+							<Z>1</Z>
+						</Vector3>
+					</Properties>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFacicaboscbim2agssni1lsliesooags6b6adsgeeagl2lbbogaggdn2mllsisblaalli1l">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>0</X>
+								<Y>-1</Y>
+								<Z>0</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">LeftFootAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L321669d2d1e4e1ea4c16d6418821ba7f3ab28c9a8babc1af6e9a6381e942703ad978550d330098392ed009a1174fef7a207a18a1d00af3ebb215bc1d12eb001a1051760a7ec9bef626161d3bec5f0150df22198bcc296df71abe37d431453c7d7eb0364f33c810d2a6110980adf9</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+				</Item>
+				<Item class="Part" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFaomlns6msibgallan3as4blssncnesb4mme5allalanolmdneladgca1oaabdloilobiml">
+					<Properties>
+						<bool name="Anchored">false</bool>
+						<BinaryString name="AttributesSerialize"/>
+						<float name="BackParamA">-0.5</float>
+						<float name="BackParamB">0.5</float>
+						<token name="BackSurface">0</token>
+						<token name="BackSurfaceInput">0</token>
+						<float name="BottomParamA">-0.5</float>
+						<float name="BottomParamB">0.5</float>
+						<token name="BottomSurface">0</token>
+						<token name="BottomSurfaceInput">0</token>
+						<CoordinateFrame name="CFrame">
+							<X>-128978.5</X>
+							<Y>466827.312</Y>
+							<Z>430764.281</Z>
+							<R00>1</R00>
+							<R01>0</R01>
+							<R02>0</R02>
+							<R10>0</R10>
+							<R11>1</R11>
+							<R12>0</R12>
+							<R20>0</R20>
+							<R21>0</R21>
+							<R22>1</R22>
+						</CoordinateFrame>
+						<bool name="CanCollide">false</bool>
+						<bool name="CanQuery">true</bool>
+						<bool name="CanTouch">true</bool>
+						<bool name="CastShadow">true</bool>
+						<int name="CollisionGroupId">0</int>
+						<Color3uint8 name="Color3uint8">4288986439</Color3uint8>
+						<PhysicalProperties name="CustomPhysicalProperties">
+							<CustomPhysics>false</CustomPhysics>
+						</PhysicalProperties>
+						<float name="FrontParamA">-0.5</float>
+						<float name="FrontParamB">0.5</float>
+						<token name="FrontSurface">0</token>
+						<token name="FrontSurfaceInput">0</token>
+						<float name="LeftParamA">-0.5</float>
+						<float name="LeftParamB">0.5</float>
+						<token name="LeftSurface">0</token>
+						<token name="LeftSurfaceInput">0</token>
+						<bool name="Locked">false</bool>
+						<bool name="Massless">false</bool>
+						<token name="Material">256</token>
+						<string name="MaterialVariantSerialized"/>
+						<string name="Name">Right Leg</string>
+						<CoordinateFrame name="PivotOffset">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+							<R00>1</R00>
+							<R01>0</R01>
+							<R02>0</R02>
+							<R10>0</R10>
+							<R11>1</R11>
+							<R12>0</R12>
+							<R20>0</R20>
+							<R21>0</R21>
+							<R22>1</R22>
+						</CoordinateFrame>
+						<float name="Reflectance">0</float>
+						<float name="RightParamA">-0.5</float>
+						<float name="RightParamB">0.5</float>
+						<token name="RightSurface">0</token>
+						<token name="RightSurfaceInput">0</token>
+						<int name="RootPriority">0</int>
+						<Vector3 name="RotVelocity">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+						</Vector3>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"/>
+						<float name="TopParamA">-0.5</float>
+						<float name="TopParamB">0.5</float>
+						<token name="TopSurface">3</token>
+						<token name="TopSurfaceInput">0</token>
+						<float name="Transparency">0</float>
+						<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lce3ead0c8a21c2224202043ee97d7b4928baba2d64705e71efce20a69630505321d97b1c3ee400de0e6f002dee928b10ba30c690864e970575e9f3cb17c72922587364c47816cf7d28dd9905f4dee9b5ba9e0ae667dc980af9bb602a0868ce04f9b4578acad8671dbdfc28002ecc</UniqueId>
+						<Vector3 name="Velocity">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+						</Vector3>
+						<token name="formFactorRaw">0</token>
+						<token name="shape">1</token>
+						<Vector3 name="size">
+							<X>1</X>
+							<Y>2</Y>
+							<Z>1</Z>
+						</Vector3>
+					</Properties>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFob4aomanbniebonnacoa3enlsamsmnodbalimslnalon4ss6cmlglgiaman2oneoo2lnai">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>0</X>
+								<Y>-1</Y>
+								<Z>0</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">RightFootAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L6beb451d0e76532abafc50ba6309513fbb7ef078c10cd16b07e616498ca9a78f6d548b877753f321b7a43e7fefdf94d502cae832ced3fbf768285cadc08d8016de0c940f6aded21a92c6ef1eedfbf871c4c587a318715ceaf90a9c634e9bc8579d72d6d6b12944f895c93a34bb70</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+				</Item>
+				<Item class="Humanoid" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF14ialsnaomlma56oebcgnboaladn2bab5as6ab2oba62lnmo3emsm1bombbnblmbesbnnm">
+					<Properties>
+						<BinaryString name="AttributesSerialize"/>
+						<bool name="AutoJumpEnabled">true</bool>
+						<bool name="AutoRotate">true</bool>
+						<bool name="AutomaticScalingEnabled">true</bool>
+						<bool name="BreakJointsOnDeath">true</bool>
+						<token name="CollisionType">0</token>
+						<token name="DisplayDistanceType">0</token>
+						<string name="DisplayName"/>
+						<float name="HealthDisplayDistance">100</float>
+						<token name="HealthDisplayType">0</token>
+						<float name="Health_XML">100</float>
+						<float name="HipHeight">0</float>
+						<Vector3 name="InternalBodyScale">
+							<X>1</X>
+							<Y>1</Y>
+							<Z>1</Z>
+						</Vector3>
+						<float name="InternalHeadScale">1</float>
+						<float name="JumpHeight">0.483915389</float>
+						<float name="JumpPower">50</float>
+						<float name="MaxHealth">100</float>
+						<float name="MaxSlopeAngle">89</float>
+						<string name="Name">Humanoid</string>
+						<float name="NameDisplayDistance">100</float>
+						<token name="NameOcclusion">2</token>
+						<bool name="RequiresNeck">true</bool>
+						<token name="RigType">0</token>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"/>
+						<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L820dcc601578580521409d1de81d9b654a72116b2f7ab5d93308646bce655ebc7976d5eb9363f9c323dfd347b18043dcb2a878408e2a73f53258a032eee80d6eb8e3d4c73b44e738c91252846fd29e1db77e61076846835aaa55e66a7d02ce501598ad8aa2446e73a1dd14fe436c</UniqueId>
+						<bool name="UseJumpPower">true</bool>
+						<float name="WalkSpeed">16</float>
+					</Properties>
+					<Item class="Animator" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFmil21bla2blsson6slnn6nc255n2enoo2saibas2asl5lbao6asbabagmbsoaeia4nc24g">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<string name="Name">Animator</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L56757081f2479ed881a234e8d145a54105022bab2096921e9466f92a44a601dc642b1010ee850ce49aa6a598ceda29cd42adaa0996d0c0f9b86faa19d24082655ed30d8c46a7f963b8250fa24d54d51524e058c4aa299115ffbbcf67954ec51a095011fa178a1ab96c078af24495</UniqueId>
+						</Properties>
+					</Item>
+				</Item>
+				<Item class="Part" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFololelscmmo2noabl5soslobl2eensdoisalmni6ma5da5l2simannao365cboosmo6bea">
+					<Properties>
+						<bool name="Anchored">false</bool>
+						<BinaryString name="AttributesSerialize"/>
+						<float name="BackParamA">-0.5</float>
+						<float name="BackParamB">0.5</float>
+						<token name="BackSurface">0</token>
+						<token name="BackSurfaceInput">0</token>
+						<float name="BottomParamA">-0.5</float>
+						<float name="BottomParamB">0.5</float>
+						<token name="BottomSurface">0</token>
+						<token name="BottomSurfaceInput">0</token>
+						<CoordinateFrame name="CFrame">
+							<X>-128979</X>
+							<Y>466829.312</Y>
+							<Z>430764.281</Z>
+							<R00>1</R00>
+							<R01>0</R01>
+							<R02>0</R02>
+							<R10>0</R10>
+							<R11>1</R11>
+							<R12>0</R12>
+							<R20>0</R20>
+							<R21>0</R21>
+							<R22>1</R22>
+						</CoordinateFrame>
+						<bool name="CanCollide">false</bool>
+						<bool name="CanQuery">true</bool>
+						<bool name="CanTouch">true</bool>
+						<bool name="CastShadow">true</bool>
+						<int name="CollisionGroupId">0</int>
+						<Color3uint8 name="Color3uint8">4288914085</Color3uint8>
+						<PhysicalProperties name="CustomPhysicalProperties">
+							<CustomPhysics>false</CustomPhysics>
+						</PhysicalProperties>
+						<float name="FrontParamA">-0.5</float>
+						<float name="FrontParamB">0.5</float>
+						<token name="FrontSurface">0</token>
+						<token name="FrontSurfaceInput">0</token>
+						<float name="LeftParamA">0</float>
+						<float name="LeftParamB">0</float>
+						<token name="LeftSurface">0</token>
+						<token name="LeftSurfaceInput">0</token>
+						<bool name="Locked">false</bool>
+						<bool name="Massless">false</bool>
+						<token name="Material">256</token>
+						<string name="MaterialVariantSerialized"/>
+						<string name="Name">HumanoidRootPart</string>
+						<CoordinateFrame name="PivotOffset">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+							<R00>1</R00>
+							<R01>0</R01>
+							<R02>0</R02>
+							<R10>0</R10>
+							<R11>1</R11>
+							<R12>0</R12>
+							<R20>0</R20>
+							<R21>0</R21>
+							<R22>1</R22>
+						</CoordinateFrame>
+						<float name="Reflectance">0</float>
+						<float name="RightParamA">0</float>
+						<float name="RightParamB">0</float>
+						<token name="RightSurface">0</token>
+						<token name="RightSurfaceInput">0</token>
+						<int name="RootPriority">0</int>
+						<Vector3 name="RotVelocity">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+						</Vector3>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"/>
+						<float name="TopParamA">-0.5</float>
+						<float name="TopParamB">0.5</float>
+						<token name="TopSurface">0</token>
+						<token name="TopSurfaceInput">0</token>
+						<float name="Transparency">1</float>
+						<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L7bb0ec5bf16e0647738b7cf9f7791acbb7ecf039610f1432384178f4eb09bfcf663c07bc27e4245c78afc24b52e62f50f03babbb28935de4e9c92ee41d7d5cacde6be6b97a1d9373c7c74aef3b0e2d26b266a8d8f7f6050d57d8b34885300192e23dc72c96642a5688ea3472cfd4</UniqueId>
+						<Vector3 name="Velocity">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+						</Vector3>
+						<token name="formFactorRaw">0</token>
+						<token name="shape">1</token>
+						<Vector3 name="size">
+							<X>2</X>
+							<Y>2</Y>
+							<Z>1</Z>
+						</Vector3>
+					</Properties>
+					<Item class="Sound" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFlms5in6scmmbaooi3o5bi5glllol2aln1la4enaal5olabnmnaom16sb5311odalm6mc1a">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<float name="EmitterSize">5</float>
+							<bool name="Looped">true</bool>
+							<string name="Name">Climbing</string>
+							<bool name="PlayOnRemove">false</bool>
+							<float name="PlaybackSpeed">1</float>
+							<bool name="Playing">false</bool>
+							<token name="RollOffMode">0</token>
+							<Ref name="SoundGroup">null</Ref>
+							<Content name="SoundId"><url>rbxasset://sounds/action_footsteps_plastic.mp3</url></Content>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<double name="TimePosition">0</double>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1La0bb50c1d3e733a69c8d81f96aaa00d2687eb9519ef989f9669def586d58a4a755662e7de2f1125ebd3c0cdd963724bd2c9705930b1be2a00a83903502a88c3818d846dfd71111b7a38b25617d4b0020ac7412b01f3f710a58aa6aa6c9cc9a7903e655f2b373d8a0bcd28f298626</UniqueId>
+							<float name="Volume">0.649999976</float>
+							<float name="xmlRead_MaxDistance_3">150</float>
+						</Properties>
+					</Item>
+					<Item class="Sound" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFnll5lacse3mlagasblsa4a4lellaoinb61lnslbs21mo3s5amesmleg1m3dnieo4bg2s6m">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<float name="EmitterSize">5</float>
+							<bool name="Looped">false</bool>
+							<string name="Name">Died</string>
+							<bool name="PlayOnRemove">false</bool>
+							<float name="PlaybackSpeed">1</float>
+							<bool name="Playing">false</bool>
+							<token name="RollOffMode">0</token>
+							<Ref name="SoundGroup">null</Ref>
+							<Content name="SoundId"><url>rbxasset://sounds/uuhhh.mp3</url></Content>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<double name="TimePosition">0</double>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L6a530f8016f6e0327560b0da801b82f170a6fca3c4056a488ffa55199c5308700b404c5d00c7bf34d3866a8b164af0280a3b7d0aeb4a8b4b50c986edfd22699f01a84a5589dca6bb7a27171d7874326be272aca157a1cdf3ae8421faf27720622bb5b37662ae99b1f51580dfaf69</UniqueId>
+							<float name="Volume">0.649999976</float>
+							<float name="xmlRead_MaxDistance_3">150</float>
+						</Properties>
+					</Item>
+					<Item class="Sound" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFbbmbsdmbcgb6la425anaa6lg2cooialoobbe211as23olmiogllall63allomaa3mcobai">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<float name="EmitterSize">5</float>
+							<bool name="Looped">false</bool>
+							<string name="Name">GettingUp</string>
+							<bool name="PlayOnRemove">false</bool>
+							<float name="PlaybackSpeed">1</float>
+							<bool name="Playing">false</bool>
+							<token name="RollOffMode">0</token>
+							<Ref name="SoundGroup">null</Ref>
+							<Content name="SoundId"><url>rbxasset://sounds/action_get_up.mp3</url></Content>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<double name="TimePosition">0</double>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L1c7b6329988df01f582438f121de06d1f38f7035b0e696e89178d14fe169baffb6e9944467a762e756437a968717dff2b72dc87e06d562db7a6ddacfd5399483d4a1c2c1f3ec2e93fffeb982b229c36b799c5afaf4366f19c75f7c446917b87d4c6a1c7e9f02268ac5e31898aa55</UniqueId>
+							<float name="Volume">0.649999976</float>
+							<float name="xmlRead_MaxDistance_3">150</float>
+						</Properties>
+					</Item>
+					<Item class="Sound" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFa5l1nmaadmol4nagmade2celonlbnlen4cmadlmone4b2bgnmlnnan1o46ol24gl6oin3o">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<float name="EmitterSize">5</float>
+							<bool name="Looped">true</bool>
+							<string name="Name">Swimming</string>
+							<bool name="PlayOnRemove">false</bool>
+							<float name="PlaybackSpeed">1.60000002</float>
+							<bool name="Playing">false</bool>
+							<token name="RollOffMode">0</token>
+							<Ref name="SoundGroup">null</Ref>
+							<Content name="SoundId"><url>rbxasset://sounds/action_swim.mp3</url></Content>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<double name="TimePosition">0</double>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L7b9fb20aa67a02e052dd90a46e563e3aa5d24807d38f6809badc38a4a58e3324b4e654a0ccd53148db1c2f909d504160d69602e98bad3db47e43ae0c0db4d1dd12c7062b9238bd4532eb147a6655b4f20fb067142d5e167346f657790111bf6752b0fc2be178c7aa46f7199e221f</UniqueId>
+							<float name="Volume">0.649999976</float>
+							<float name="xmlRead_MaxDistance_3">150</float>
+						</Properties>
+					</Item>
+					<Item class="Sound" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFa5162gdalalgoalosl2aa5bc6isegal11naonmbd6nbn46locb6nbsbbbdma6nsallaman">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<float name="EmitterSize">5</float>
+							<bool name="Looped">false</bool>
+							<string name="Name">Jumping</string>
+							<bool name="PlayOnRemove">false</bool>
+							<float name="PlaybackSpeed">1</float>
+							<bool name="Playing">false</bool>
+							<token name="RollOffMode">0</token>
+							<Ref name="SoundGroup">null</Ref>
+							<Content name="SoundId"><url>rbxasset://sounds/action_jump.mp3</url></Content>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<double name="TimePosition">0</double>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L34a3996e509ab7a411aafe72d2216014e8baaaa3e30ac07a2508ccf0174a3db4c8ba8287ed86a0fc302dfb671b6a03061ca625a67eff62165eaa4112201a1dda34cba17cd3f77c0b43727390374cc5791dec6027e82d48b0e505475fca4429511dbd309fd9c1e973f2a673e720b8</UniqueId>
+							<float name="Volume">0.649999976</float>
+							<float name="xmlRead_MaxDistance_3">150</float>
+						</Properties>
+					</Item>
+					<Item class="Sound" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF6sbo6nlii4almel445lba5bbbbabgo4nboslsllcb1dgeig4oi352agslm365logbc1oai">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<float name="EmitterSize">5</float>
+							<bool name="Looped">false</bool>
+							<string name="Name">Landing</string>
+							<bool name="PlayOnRemove">false</bool>
+							<float name="PlaybackSpeed">1</float>
+							<bool name="Playing">false</bool>
+							<token name="RollOffMode">0</token>
+							<Ref name="SoundGroup">null</Ref>
+							<Content name="SoundId"><url>rbxasset://sounds/action_jump_land.mp3</url></Content>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<double name="TimePosition">0</double>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lc4580cd339a718c74b87f172507473f048b0dbd9c90a2bed5012de7a212c50bd35217a9a44d1b599c9826637f43f41f082e5eb74169eaa0fda7374f218d50ab3ba370072f67b2e7dacc51308a1f84a2960fa66510f65e07e5ccc8dd0b230c3235d03f7acb37538cb9c68e0bb225f</UniqueId>
+							<float name="Volume">0.665418983</float>
+							<float name="xmlRead_MaxDistance_3">150</float>
+						</Properties>
+					</Item>
+					<Item class="Sound" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFonn55gdlsd4l5a2bmlnabd1babo5noliogcoblsasma1a2b6a6s1ncma1m5lmla2lm63da">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<float name="EmitterSize">5</float>
+							<bool name="Looped">false</bool>
+							<string name="Name">Splash</string>
+							<bool name="PlayOnRemove">false</bool>
+							<float name="PlaybackSpeed">1</float>
+							<bool name="Playing">false</bool>
+							<token name="RollOffMode">0</token>
+							<Ref name="SoundGroup">null</Ref>
+							<Content name="SoundId"><url>rbxasset://sounds/impact_water.mp3</url></Content>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<double name="TimePosition">0</double>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L9df4b7d7dc20d24d536c6f4a343f8f12459060cf74a10f269a761c03e739e49adf4609a8bc1759e23456091e0a1181bb6ed3bad4587a5a0bc72e0d9adcb62fe130674e1cbc9fd92968491b8f1fca4a7fcfed55a31a4169a47a1ee9085c9c13a7e699ce3728ed4c0204fef0ff92fa</UniqueId>
+							<float name="Volume">0.649999976</float>
+							<float name="xmlRead_MaxDistance_3">150</float>
+						</Properties>
+					</Item>
+					<Item class="Sound" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFl6gmbam25bb2dldiogsamlbacoiaeoll5l42oos1lnlbamodbnbc4il4b2a1aaaa6doe5l">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<float name="EmitterSize">5</float>
+							<bool name="Looped">true</bool>
+							<string name="Name">FreeFalling</string>
+							<bool name="PlayOnRemove">false</bool>
+							<float name="PlaybackSpeed">1</float>
+							<bool name="Playing">false</bool>
+							<token name="RollOffMode">0</token>
+							<Ref name="SoundGroup">null</Ref>
+							<Content name="SoundId"><url>rbxasset://sounds/action_falling.mp3</url></Content>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<double name="TimePosition">0</double>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L34def5b2a3ecee403bdd2efa980eb5304ab84587c895d0359ba80a9c05307891f61dd49908eeaa112e0b3d7e737f95fe5d0099794f105ebb88a2aba7322b559530e830a9eeca05d5c9c84db5388370e949b6854b920d1dfd6ff48bb8443f19b73347e8b7ad8d1b2ea2e6aa75283c</UniqueId>
+							<float name="Volume">0.198750019</float>
+							<float name="xmlRead_MaxDistance_3">150</float>
+						</Properties>
+					</Item>
+					<Item class="Sound" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF1obbl6gb5bn2abs4noc6133aen563micscc31colciblaan6nbaano2asocaogmbsascoa">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<float name="EmitterSize">5</float>
+							<bool name="Looped">true</bool>
+							<string name="Name">Running</string>
+							<bool name="PlayOnRemove">false</bool>
+							<float name="PlaybackSpeed">1.85000002</float>
+							<bool name="Playing">false</bool>
+							<token name="RollOffMode">0</token>
+							<Ref name="SoundGroup">null</Ref>
+							<Content name="SoundId"><url>rbxasset://sounds/action_footsteps_plastic.mp3</url></Content>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<double name="TimePosition">0</double>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L002a97f9c2a4cbf69a75555956c12a7460f12188dc680aec5c737aed487184f9d18e75db8bd6aeb3237aa1033c66940a3dca1a655e2980e736e1726f3a818ed74f860e3b300901a378c493c41bf8caf4644c8385a120e343f89ec20e6206195d9a7fde7baeb206eeee12309a2978</UniqueId>
+							<float name="Volume">0.649999976</float>
+							<float name="xmlRead_MaxDistance_3">150</float>
+						</Properties>
+					</Item>
+					<Item class="Attachment" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFdclmllas616aosdbioosolaomlaaa3llonbmem4b5nimd14ag13iolidim4msn2n6bbalm">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="CFrame">
+								<X>0</X>
+								<Y>0</Y>
+								<Z>0</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<string name="Name">RootAttachment</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1La1fc0042a002f51cdd931696e5e8d059bfcc09334facbe051866974a1d934daa248d5416340bcd725bd22e4b567c14ee47920a25591b2830a4d82d7b7af7e65456137d3eb1ad2ec2e26512a47db23b4b6421c6c14dc29565e9c72f53279bc06e284bf031009778cabf0adc2c2a3c</UniqueId>
+							<bool name="Visible">false</bool>
+						</Properties>
+					</Item>
+					<Item class="Motor6D" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFs3a3oo4b444nsbmbm2beabslscsoo4oaocessmbgan4ld5nsaal44e435as2aog2oll4de">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<CoordinateFrame name="C0">
+								<X>0</X>
+								<Y>0</Y>
+								<Z>0</Z>
+								<R00>-1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>0</R11>
+								<R12>1</R12>
+								<R20>0</R20>
+								<R21>1</R21>
+								<R22>-0</R22>
+							</CoordinateFrame>
+							<CoordinateFrame name="C1">
+								<X>0</X>
+								<Y>0</Y>
+								<Z>0</Z>
+								<R00>-1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>0</R11>
+								<R12>1</R12>
+								<R20>0</R20>
+								<R21>1</R21>
+								<R22>-0</R22>
+							</CoordinateFrame>
+							<float name="DesiredAngle">0</float>
+							<bool name="Enabled">true</bool>
+							<float name="MaxVelocity">0.100000001</float>
+							<string name="Name">RootJoint</string>
+							<Ref name="Part0">null</Ref>
+							<Ref name="Part1">null</Ref>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Ld2d85ad4f7dcd0d716e2cb9a8a3bb24a3706d34ea596d738aac2433176d3bf197c66c12fd5b1534e9037942aa2da1c52135cbd1e203972900842db3ed7e6816814b07a968202504a9357ee5ee7fcce77aa3f989bdf0515f72cbde19a7a9df80eecbaebbf140b13ae0ba6a9281e34</UniqueId>
+						</Properties>
+					</Item>
+				</Item>
+				<Item class="Script" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFlmnolm1mllo1ldal5obbselbbgbaiaslaboao41a4o32ln3bs3m6mbgsoasma12oocln4n">
+					<Properties>
+						<BinaryString name="AttributesSerialize"/>
+						<bool name="Disabled">false</bool>
+						<Content name="LinkedSource"><null/></Content>
+						<string name="Name">Health</string>
+						<string name="ScriptGuid">{DB360E2E-C3A0-4635-9538-02E72B459017}</string>
+						<ProtectedString name="Source">-- Gradually regenerates the Humanoid's Health over time.
+
+local REGEN_RATE = 1/100 -- Regenerate this fraction of MaxHealth per second.
+local REGEN_STEP = 1 -- Wait this long between each regeneration step.
+
+--------------------------------------------------------------------------------
+
+local Character = script.Parent
+local Humanoid = Character:WaitForChild'Humanoid'
+
+--------------------------------------------------------------------------------
+
+while true do
+	while Humanoid.Health &lt; Humanoid.MaxHealth do
+		local dt = wait(REGEN_STEP)
+		local dh = dt*REGEN_RATE*Humanoid.MaxHealth
+		Humanoid.Health = math.min(Humanoid.Health + dh, Humanoid.MaxHealth)
+	end
+	Humanoid.HealthChanged:Wait()
+end</ProtectedString>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"/>
+						<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lb8bb8bd473622aecbbfb5e5bdd31f7d555d03427eac7dd1ccbb127f32d72feb84289aae6a932d5dd0ed5e6447e6790e185bc33c19c4fa8b31116861ab4680dd85d5b319469e215671adf2ae04ff21a1a82adfefb25d125963dc3dde1fa12988e6fb8a071961747bde025c662e655</UniqueId>
+					</Properties>
+				</Item>
+				<Item class="LocalScript" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFmg6niils1mnnoo3nalbaal56mmoilasdll6gl63bd6laaadbim45bbonob3agbblmsobba">
+					<Properties>
+						<BinaryString name="AttributesSerialize"/>
+						<bool name="Disabled">false</bool>
+						<Content name="LinkedSource"><null/></Content>
+						<string name="Name">Animate</string>
+						<string name="ScriptGuid">{CDBD757D-7226-4F8B-81D4-BB29C2069F97}</string>
+						<ProtectedString name="Source">local Figure = script.Parent
+local Torso = Figure:WaitForChild("Torso")
+local RightShoulder = Torso:WaitForChild("Right Shoulder")
+local LeftShoulder = Torso:WaitForChild("Left Shoulder")
+local RightHip = Torso:WaitForChild("Right Hip")
+local LeftHip = Torso:WaitForChild("Left Hip")
+local Neck = Torso:WaitForChild("Neck")
+local Humanoid = Figure:WaitForChild("Humanoid")
+local pose = "Standing"
+
+local currentAnim = ""
+local currentAnimInstance = nil
+local currentAnimTrack = nil
+local currentAnimKeyframeHandler = nil
+local currentAnimSpeed = 1.0
+local animTable = {}
+local animNames = { 
+	idle = 	{	
+				{ id = "http://www.roblox.com/asset/?id=180435571", weight = 9 },
+				{ id = "http://www.roblox.com/asset/?id=180435792", weight = 1 }
+			},
+	walk = 	{ 	
+				{ id = "http://www.roblox.com/asset/?id=180426354", weight = 10 } 
+			}, 
+	run = 	{
+				{ id = "run.xml", weight = 10 } 
+			}, 
+	jump = 	{
+				{ id = "http://www.roblox.com/asset/?id=125750702", weight = 10 } 
+			}, 
+	fall = 	{
+				{ id = "http://www.roblox.com/asset/?id=180436148", weight = 10 } 
+			}, 
+	climb = {
+				{ id = "http://www.roblox.com/asset/?id=180436334", weight = 10 } 
+			}, 
+	sit = 	{
+				{ id = "http://www.roblox.com/asset/?id=178130996", weight = 10 } 
+			},	
+	toolnone = {
+				{ id = "http://www.roblox.com/asset/?id=182393478", weight = 10 } 
+			},
+	toolslash = {
+				{ id = "http://www.roblox.com/asset/?id=129967390", weight = 10 } 
+--				{ id = "slash.xml", weight = 10 } 
+			},
+	toollunge = {
+				{ id = "http://www.roblox.com/asset/?id=129967478", weight = 10 } 
+			},
+	wave = {
+				{ id = "http://www.roblox.com/asset/?id=128777973", weight = 10 } 
+			},
+	point = {
+				{ id = "http://www.roblox.com/asset/?id=128853357", weight = 10 } 
+			},
+	dance1 = {
+				{ id = "http://www.roblox.com/asset/?id=182435998", weight = 10 }, 
+				{ id = "http://www.roblox.com/asset/?id=182491037", weight = 10 }, 
+				{ id = "http://www.roblox.com/asset/?id=182491065", weight = 10 } 
+			},
+	dance2 = {
+				{ id = "http://www.roblox.com/asset/?id=182436842", weight = 10 }, 
+				{ id = "http://www.roblox.com/asset/?id=182491248", weight = 10 }, 
+				{ id = "http://www.roblox.com/asset/?id=182491277", weight = 10 } 
+			},
+	dance3 = {
+				{ id = "http://www.roblox.com/asset/?id=182436935", weight = 10 }, 
+				{ id = "http://www.roblox.com/asset/?id=182491368", weight = 10 }, 
+				{ id = "http://www.roblox.com/asset/?id=182491423", weight = 10 } 
+			},
+	laugh = {
+				{ id = "http://www.roblox.com/asset/?id=129423131", weight = 10 } 
+			},
+	cheer = {
+				{ id = "http://www.roblox.com/asset/?id=129423030", weight = 10 } 
+			},
+}
+local dances = {"dance1", "dance2", "dance3"}
+
+-- Existance in this list signifies that it is an emote, the value indicates if it is a looping emote
+local emoteNames = { wave = false, point = false, dance1 = true, dance2 = true, dance3 = true, laugh = false, cheer = false}
+
+function configureAnimationSet(name, fileList)
+	if (animTable[name] ~= nil) then
+		for _, connection in pairs(animTable[name].connections) do
+			connection:disconnect()
+		end
+	end
+	animTable[name] = {}
+	animTable[name].count = 0
+	animTable[name].totalWeight = 0	
+	animTable[name].connections = {}
+
+	-- check for config values
+	local config = script:FindFirstChild(name)
+	if (config ~= nil) then
+--		print("Loading anims " .. name)
+		table.insert(animTable[name].connections, config.ChildAdded:connect(function(child) configureAnimationSet(name, fileList) end))
+		table.insert(animTable[name].connections, config.ChildRemoved:connect(function(child) configureAnimationSet(name, fileList) end))
+		local idx = 1
+		for _, childPart in pairs(config:GetChildren()) do
+			if (childPart:IsA("Animation")) then
+				table.insert(animTable[name].connections, childPart.Changed:connect(function(property) configureAnimationSet(name, fileList) end))
+				animTable[name][idx] = {}
+				animTable[name][idx].anim = childPart
+				local weightObject = childPart:FindFirstChild("Weight")
+				if (weightObject == nil) then
+					animTable[name][idx].weight = 1
+				else
+					animTable[name][idx].weight = weightObject.Value
+				end
+				animTable[name].count = animTable[name].count + 1
+				animTable[name].totalWeight = animTable[name].totalWeight + animTable[name][idx].weight
+	--			print(name .. " [" .. idx .. "] " .. animTable[name][idx].anim.AnimationId .. " (" .. animTable[name][idx].weight .. ")")
+				idx = idx + 1
+			end
+		end
+	end
+
+	-- fallback to defaults
+	if (animTable[name].count &lt;= 0) then
+		for idx, anim in pairs(fileList) do
+			animTable[name][idx] = {}
+			animTable[name][idx].anim = Instance.new("Animation")
+			animTable[name][idx].anim.Name = name
+			animTable[name][idx].anim.AnimationId = anim.id
+			animTable[name][idx].weight = anim.weight
+			animTable[name].count = animTable[name].count + 1
+			animTable[name].totalWeight = animTable[name].totalWeight + anim.weight
+--			print(name .. " [" .. idx .. "] " .. anim.id .. " (" .. anim.weight .. ")")
+		end
+	end
+end
+
+-- Setup animation objects
+function scriptChildModified(child)
+	local fileList = animNames[child.Name]
+	if (fileList ~= nil) then
+		configureAnimationSet(child.Name, fileList)
+	end	
+end
+
+script.ChildAdded:connect(scriptChildModified)
+script.ChildRemoved:connect(scriptChildModified)
+
+
+for name, fileList in pairs(animNames) do 
+	configureAnimationSet(name, fileList)
+end	
+
+-- ANIMATION
+
+-- declarations
+local toolAnim = "None"
+local toolAnimTime = 0
+
+local jumpAnimTime = 0
+local jumpAnimDuration = 0.3
+
+local toolTransitionTime = 0.1
+local fallTransitionTime = 0.3
+local jumpMaxLimbVelocity = 0.75
+
+-- functions
+
+function stopAllAnimations()
+	local oldAnim = currentAnim
+
+	-- return to idle if finishing an emote
+	if (emoteNames[oldAnim] ~= nil and emoteNames[oldAnim] == false) then
+		oldAnim = "idle"
+	end
+
+	currentAnim = ""
+	currentAnimInstance = nil
+	if (currentAnimKeyframeHandler ~= nil) then
+		currentAnimKeyframeHandler:disconnect()
+	end
+
+	if (currentAnimTrack ~= nil) then
+		currentAnimTrack:Stop()
+		currentAnimTrack:Destroy()
+		currentAnimTrack = nil
+	end
+	return oldAnim
+end
+
+function setAnimationSpeed(speed)
+	if speed ~= currentAnimSpeed then
+		currentAnimSpeed = speed
+		currentAnimTrack:AdjustSpeed(currentAnimSpeed)
+	end
+end
+
+function keyFrameReachedFunc(frameName)
+	if (frameName == "End") then
+
+		local repeatAnim = currentAnim
+		-- return to idle if finishing an emote
+		if (emoteNames[repeatAnim] ~= nil and emoteNames[repeatAnim] == false) then
+			repeatAnim = "idle"
+		end
+		
+		local animSpeed = currentAnimSpeed
+		playAnimation(repeatAnim, 0.0, Humanoid)
+		setAnimationSpeed(animSpeed)
+	end
+end
+
+-- Preload animations
+function playAnimation(animName, transitionTime, humanoid) 
+		
+	local roll = math.random(1, animTable[animName].totalWeight) 
+	local origRoll = roll
+	local idx = 1
+	while (roll &gt; animTable[animName][idx].weight) do
+		roll = roll - animTable[animName][idx].weight
+		idx = idx + 1
+	end
+--		print(animName .. " " .. idx .. " [" .. origRoll .. "]")
+	local anim = animTable[animName][idx].anim
+
+	-- switch animation		
+	if (anim ~= currentAnimInstance) then
+		
+		if (currentAnimTrack ~= nil) then
+			currentAnimTrack:Stop(transitionTime)
+			currentAnimTrack:Destroy()
+		end
+
+		currentAnimSpeed = 1.0
+	
+		-- load it to the humanoid; get AnimationTrack
+		currentAnimTrack = humanoid:LoadAnimation(anim)
+		currentAnimTrack.Priority = Enum.AnimationPriority.Core
+		 
+		-- play the animation
+		currentAnimTrack:Play(transitionTime)
+		currentAnim = animName
+		currentAnimInstance = anim
+
+		-- set up keyframe name triggers
+		if (currentAnimKeyframeHandler ~= nil) then
+			currentAnimKeyframeHandler:disconnect()
+		end
+		currentAnimKeyframeHandler = currentAnimTrack.KeyframeReached:connect(keyFrameReachedFunc)
+		
+	end
+
+end
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+local toolAnimName = ""
+local toolAnimTrack = nil
+local toolAnimInstance = nil
+local currentToolAnimKeyframeHandler = nil
+
+function toolKeyFrameReachedFunc(frameName)
+	if (frameName == "End") then
+--		print("Keyframe : ".. frameName)	
+		playToolAnimation(toolAnimName, 0.0, Humanoid)
+	end
+end
+
+
+function playToolAnimation(animName, transitionTime, humanoid, priority)	 
+		
+		local roll = math.random(1, animTable[animName].totalWeight) 
+		local origRoll = roll
+		local idx = 1
+		while (roll &gt; animTable[animName][idx].weight) do
+			roll = roll - animTable[animName][idx].weight
+			idx = idx + 1
+		end
+--		print(animName .. " * " .. idx .. " [" .. origRoll .. "]")
+		local anim = animTable[animName][idx].anim
+
+		if (toolAnimInstance ~= anim) then
+			
+			if (toolAnimTrack ~= nil) then
+				toolAnimTrack:Stop()
+				toolAnimTrack:Destroy()
+				transitionTime = 0
+			end
+					
+			-- load it to the humanoid; get AnimationTrack
+			toolAnimTrack = humanoid:LoadAnimation(anim)
+			if priority then
+				toolAnimTrack.Priority = priority
+			end
+			 
+			-- play the animation
+			toolAnimTrack:Play(transitionTime)
+			toolAnimName = animName
+			toolAnimInstance = anim
+
+			currentToolAnimKeyframeHandler = toolAnimTrack.KeyframeReached:connect(toolKeyFrameReachedFunc)
+		end
+end
+
+function stopToolAnimations()
+	local oldAnim = toolAnimName
+
+	if (currentToolAnimKeyframeHandler ~= nil) then
+		currentToolAnimKeyframeHandler:disconnect()
+	end
+
+	toolAnimName = ""
+	toolAnimInstance = nil
+	if (toolAnimTrack ~= nil) then
+		toolAnimTrack:Stop()
+		toolAnimTrack:Destroy()
+		toolAnimTrack = nil
+	end
+
+
+	return oldAnim
+end
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+function onRunning(speed)
+	if speed &gt; 0.01 then
+		playAnimation("walk", 0.1, Humanoid)
+		if currentAnimInstance and currentAnimInstance.AnimationId == "http://www.roblox.com/asset/?id=180426354" then
+			setAnimationSpeed(speed / 14.5)
+		end
+		pose = "Running"
+	else
+		if emoteNames[currentAnim] == nil then
+			playAnimation("idle", 0.1, Humanoid)
+			pose = "Standing"
+		end
+	end
+end
+
+function onDied()
+	pose = "Dead"
+end
+
+function onJumping()
+	playAnimation("jump", 0.1, Humanoid)
+	jumpAnimTime = jumpAnimDuration
+	pose = "Jumping"
+end
+
+function onClimbing(speed)
+	playAnimation("climb", 0.1, Humanoid)
+	setAnimationSpeed(speed / 12.0)
+	pose = "Climbing"
+end
+
+function onGettingUp()
+	pose = "GettingUp"
+end
+
+function onFreeFall()
+	if (jumpAnimTime &lt;= 0) then
+		playAnimation("fall", fallTransitionTime, Humanoid)
+	end
+	pose = "FreeFall"
+end
+
+function onFallingDown()
+	pose = "FallingDown"
+end
+
+function onSeated()
+	pose = "Seated"
+end
+
+function onPlatformStanding()
+	pose = "PlatformStanding"
+end
+
+function onSwimming(speed)
+	if speed &gt; 0 then
+		pose = "Running"
+	else
+		pose = "Standing"
+	end
+end
+
+function getTool()	
+	for _, kid in ipairs(Figure:GetChildren()) do
+		if kid.className == "Tool" then return kid end
+	end
+	return nil
+end
+
+function getToolAnim(tool)
+	for _, c in ipairs(tool:GetChildren()) do
+		if c.Name == "toolanim" and c.className == "StringValue" then
+			return c
+		end
+	end
+	return nil
+end
+
+function animateTool()
+	
+	if (toolAnim == "None") then
+		playToolAnimation("toolnone", toolTransitionTime, Humanoid, Enum.AnimationPriority.Idle)
+		return
+	end
+
+	if (toolAnim == "Slash") then
+		playToolAnimation("toolslash", 0, Humanoid, Enum.AnimationPriority.Action)
+		return
+	end
+
+	if (toolAnim == "Lunge") then
+		playToolAnimation("toollunge", 0, Humanoid, Enum.AnimationPriority.Action)
+		return
+	end
+end
+
+function moveSit()
+	RightShoulder.MaxVelocity = 0.15
+	LeftShoulder.MaxVelocity = 0.15
+	RightShoulder:SetDesiredAngle(3.14 /2)
+	LeftShoulder:SetDesiredAngle(-3.14 /2)
+	RightHip:SetDesiredAngle(3.14 /2)
+	LeftHip:SetDesiredAngle(-3.14 /2)
+end
+
+local lastTick = 0
+
+function move(time)
+	local amplitude = 1
+	local frequency = 1
+  	local deltaTime = time - lastTick
+  	lastTick = time
+
+	local climbFudge = 0
+	local setAngles = false
+
+  	if (jumpAnimTime &gt; 0) then
+  		jumpAnimTime = jumpAnimTime - deltaTime
+  	end
+
+	if (pose == "FreeFall" and jumpAnimTime &lt;= 0) then
+		playAnimation("fall", fallTransitionTime, Humanoid)
+	elseif (pose == "Seated") then
+		playAnimation("sit", 0.5, Humanoid)
+		return
+	elseif (pose == "Running") then
+		playAnimation("walk", 0.1, Humanoid)
+	elseif (pose == "Dead" or pose == "GettingUp" or pose == "FallingDown" or pose == "Seated" or pose == "PlatformStanding") then
+--		print("Wha " .. pose)
+		stopAllAnimations()
+		amplitude = 0.1
+		frequency = 1
+		setAngles = true
+	end
+
+	if (setAngles) then
+		local desiredAngle = amplitude * math.sin(time * frequency)
+
+		RightShoulder:SetDesiredAngle(desiredAngle + climbFudge)
+		LeftShoulder:SetDesiredAngle(desiredAngle - climbFudge)
+		RightHip:SetDesiredAngle(-desiredAngle)
+		LeftHip:SetDesiredAngle(-desiredAngle)
+	end
+
+	-- Tool Animation handling
+	local tool = getTool()
+	if tool and tool:FindFirstChild("Handle") then
+	
+		local animStringValueObject = getToolAnim(tool)
+
+		if animStringValueObject then
+			toolAnim = animStringValueObject.Value
+			-- message recieved, delete StringValue
+			animStringValueObject.Parent = nil
+			toolAnimTime = time + .3
+		end
+
+		if time &gt; toolAnimTime then
+			toolAnimTime = 0
+			toolAnim = "None"
+		end
+
+		animateTool()		
+	else
+		stopToolAnimations()
+		toolAnim = "None"
+		toolAnimInstance = nil
+		toolAnimTime = 0
+	end
+end
+
+-- connect events
+Humanoid.Died:connect(onDied)
+Humanoid.Running:connect(onRunning)
+Humanoid.Jumping:connect(onJumping)
+Humanoid.Climbing:connect(onClimbing)
+Humanoid.GettingUp:connect(onGettingUp)
+Humanoid.FreeFalling:connect(onFreeFall)
+Humanoid.FallingDown:connect(onFallingDown)
+Humanoid.Seated:connect(onSeated)
+Humanoid.PlatformStanding:connect(onPlatformStanding)
+Humanoid.Swimming:connect(onSwimming)
+
+-- setup emote chat hook
+game:GetService("Players").LocalPlayer.Chatted:connect(function(msg)
+	local emote = ""
+	if msg == "/e dance" then
+		emote = dances[math.random(1, #dances)]
+	elseif (string.sub(msg, 1, 3) == "/e ") then
+		emote = string.sub(msg, 4)
+	elseif (string.sub(msg, 1, 7) == "/emote ") then
+		emote = string.sub(msg, 8)
+	end
+	
+	if (pose == "Standing" and emoteNames[emote] ~= nil) then
+		playAnimation(emote, 0.1, Humanoid)
+	end
+
+end)
+
+
+-- main program
+
+-- initialize to idle
+playAnimation("idle", 0.1, Humanoid)
+pose = "Standing"
+
+while Figure.Parent ~= nil do
+	local _, time = wait(0.1)
+	move(time)
+end
+
+
+</ProtectedString>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"/>
+						<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L5842e1c772e0f7a17571662c67480e6eb88b4c7b0d559cc4b8b8ee99663f01b6cbdda4885f1af15395080df9e87bd01c219e089ccc3025944e2631915d8e145853956475dc223cfb0c99e8d91443c0a2905aee62ddd0ad610131b628c9682f7ce4d40de55dadf03fbfb41ba5840d</UniqueId>
+					</Properties>
+					<Item class="StringValue" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFboae2mlaboommo5boan2iab2i6a3cbagamilnnnmc3lab5gago41lal23cbmeo41mgbsai">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<string name="Name">idle</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lb152d7fdd407113322efba27536d5514adb09443281726486ae5d674f412f98f685cdabefd3a953140c700cca12655d884dfcac14406bb0160f542beb81eba43dc252a08027e1a07912fb4e68b7c4ad29721da628a498a9457fa7a234780c75da6d73dd95d524f11c2f0bf0a1944</UniqueId>
+							<string name="Value"/>
+						</Properties>
+						<Item class="Animation" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFib4lnbg6labnelds6meallml6osblsdbbodla4n1boaeildbele36libiailn4dlnoaoa1">
+							<Properties>
+								<Content name="AnimationId"><url>http://www.roblox.com/asset/?id=180435571</url></Content>
+								<BinaryString name="AttributesSerialize"/>
+								<string name="Name">Animation1</string>
+								<int64 name="SourceAssetId">-1</int64>
+								<BinaryString name="Tags"/>
+								<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L81c533ad38fa24bde79ef5caf113ade6acc8df9f4f46984d73a0fa3f9deb502a4efa5c71fa868b81f6cabd204ea740dda39c62ac9f334669bf65c01b9e38c741ee64a6bf702ec1be8b36f2183e709495b089bb3d2b2a12ea847e4188459feaf6d256b62cf47fd63bdbd85566164e</UniqueId>
+							</Properties>
+							<Item class="NumberValue" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFo35bml5oi2alab6og51lmll2lios4bmmigamsa21dgsocalollbmlgaiainlbaoiomol22">
+								<Properties>
+									<BinaryString name="AttributesSerialize"/>
+									<string name="Name">Weight</string>
+									<int64 name="SourceAssetId">-1</int64>
+									<BinaryString name="Tags"/>
+									<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L8f06d18fe23f8f3ec26bf40f56db211c1e90ecb973b51fab0a06b1b592847fb3c0b3bfd278a9539daf9a839bbcfe026b87bd6f1be252b8e9c6f107b96a08857709f2ea11ef2c2c2cd0d042f13f382309a3cf3ac2788d03bf4b30a9ab28ab76610f5dd4ef2997939bfec181015145</UniqueId>
+									<double name="Value">9</double>
+								</Properties>
+							</Item>
+						</Item>
+						<Item class="Animation" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF4cl6onmmle6bnibal4mldlm6ggmllboaibnn3siglb3do31ao5loblodb3l564o5s35mbm">
+							<Properties>
+								<Content name="AnimationId"><url>http://www.roblox.com/asset/?id=180435792</url></Content>
+								<BinaryString name="AttributesSerialize"/>
+								<string name="Name">Animation2</string>
+								<int64 name="SourceAssetId">-1</int64>
+								<BinaryString name="Tags"/>
+								<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L6440ac6ad6a8df4198eb16549aec1c9ca28be9faa17a5a01af5af98bef648b1916f97e2a1b1fea74553ee017020be7938fc63499d482489513bec9c556099a9c023a6eaf3343b1dc5722768ae2288f7dc7fc25fee6337a02401cf62c14edd54735c5cb25b7c7aeb19ef56abe9eac</UniqueId>
+							</Properties>
+							<Item class="NumberValue" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFao46bamnongi1laoobbdaolboobsbgsgclellsin35aoli5caiagbmcoolasgleba3o6dl">
+								<Properties>
+									<BinaryString name="AttributesSerialize"/>
+									<string name="Name">Weight</string>
+									<int64 name="SourceAssetId">-1</int64>
+									<BinaryString name="Tags"/>
+									<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L1ea9d733e5b35f9abcdd61ebfe634e0848d4cad8176369d9bbaf9732bb4b19fce2dff2a860f311a19f9f94c07cfb955d969c3d3f3bd644cb0e0252896f5d0b7e705c0e4e0131999e0a37c02b88ee67e5859e26628b5ef42437984cdded1e1c45a6cd0a22ff37fc366b0247743c57</UniqueId>
+									<double name="Value">1</double>
+								</Properties>
+							</Item>
+						</Item>
+					</Item>
+					<Item class="StringValue" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFlo3lln1c4a4a2aam2ga2soi2e2aoaas5olascgbc4mdoco4a4l3aismlolsbaaaodba51i">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<string name="Name">walk</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L5fc72650791c630667000cd941212cb39bac56f4b0bbe9a420a12601d0438ae207eef6b3efaea4495aa1338635f4099970e0323762ae5e0248fc5e579ec231812c715202f644c0bc71b13bb5f746d1a98de4da93b64f66ca415a56a269ec18e29b0fffcfa216e791901363e7dbb0</UniqueId>
+							<string name="Value"/>
+						</Properties>
+						<Item class="Animation" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFsiaoammonob1cbaai25lmgombbnalnmidmbglgomlib4a1ia624gn2acoba34bm4iogsl3">
+							<Properties>
+								<Content name="AnimationId"><url>http://www.roblox.com/asset/?id=180426354</url></Content>
+								<BinaryString name="AttributesSerialize"/>
+								<string name="Name">WalkAnim</string>
+								<int64 name="SourceAssetId">-1</int64>
+								<BinaryString name="Tags"/>
+								<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L9c850e0f76dedc517a172f88350f8d4907d8caca8ee1957be7e7f9e07867bc2ce9e9fe5d3a2d1ce51f0e483650572fae73d9bce32049529e2cdb2e6d16b37f552e50f252e792c20d13acbae260d4768366d0de86f6e91bdafc3c3cb85a6968c055e44c01063ac4400f0fee710333</UniqueId>
+							</Properties>
+						</Item>
+					</Item>
+					<Item class="StringValue" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF4lsgslaa66aeacm5nlaadlmmagclaamncaaall1l3lbldcs4se6baldneanbelb4l5boln">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<string name="Name">run</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L975e3c72817c8280228298773b64dd19610be0664f5a588842b9c773b680eb342bad3ddc15511fdf64d85116b952b932fc5eb9210cc044af31a121cbe10508a994172415398831451f4cacb585b68135ee97ff158d3715b967ce2f77ab97fc45798d0f9feeb8081cbf36b4647547</UniqueId>
+							<string name="Value"/>
+						</Properties>
+						<Item class="Animation" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFgoao5bmlm2cillagm4ogmao2oaomob62l1be2caa4sdilslalllalidabo6lmd6lilnaos">
+							<Properties>
+								<Content name="AnimationId"><url>http://www.roblox.com/asset/?id=180426354</url></Content>
+								<BinaryString name="AttributesSerialize"/>
+								<string name="Name">RunAnim</string>
+								<int64 name="SourceAssetId">-1</int64>
+								<BinaryString name="Tags"/>
+								<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lefb72b82390bf470d62030b62f0657e59645559f3229027ac9ca931c8fdda49ba59f61b9db40e06c8b3baeaa206d17c1744d4ced248fc500e20c036fd80530c5b2f2b5bdc936a5475acb99012b699a712b5ec2719264f5eda9f97fc7aad68b1b1fee48f3889b3b45b103ad2ee7d1</UniqueId>
+							</Properties>
+						</Item>
+					</Item>
+					<Item class="StringValue" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF6l6mlcalmno31la6d2bnnaab4loomnldbnl41d1laanlno3baoebbosia2cadbaosad56c">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<string name="Name">jump</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L7c2818d4a1a4a56e76a86f6f603439609d421d5d9cf56d6d8271ed7cd97e218eccb9941e975204ecc0065bbbfc1a62f32fb88e877e2631a610d8eac8ae017589447cc75e1c57e5fddc443be82de55fd0be47004de7f3aeb4a66b8c34a2d31309820535500e4c02790c73ab485674</UniqueId>
+							<string name="Value"/>
+						</Properties>
+						<Item class="Animation" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFel4nlm5on6oo5minbeab3lboelsd6ooeoadlacbsncbgnalo2onaade1n5bnmabsaaam2i">
+							<Properties>
+								<Content name="AnimationId"><url>http://www.roblox.com/asset/?id=125750702</url></Content>
+								<BinaryString name="AttributesSerialize"/>
+								<string name="Name">JumpAnim</string>
+								<int64 name="SourceAssetId">-1</int64>
+								<BinaryString name="Tags"/>
+								<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L874d1027b2e955237e3e5bb3304029493b010c138d58ce98e1fc1516d23ebd87dde25858918517ef2d260f78fe1d3f318b6f16d79cbae3c589173b63157f811789a00089050b8776cc6741e4a568a5a001c8cf237f9870f0694ce83cd4157577fd37c97c54e87c1713bc22af0406</UniqueId>
+							</Properties>
+						</Item>
+					</Item>
+					<Item class="StringValue" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFg4a2ebodnb1abmlnmblbd5blal4nalobbnd6onbmlb4b5l5abn3in4s3lanllob4ds1bln">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<string name="Name">climb</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lda753eabdbee9f54a1003ea61d3d998bf9d1215ed3d2c00c6cdcd71cd77978c12c3b165a22e76d923f026a53e3e1dd1bf35dca4457c59af03839cf3869d40d4ee1147928a4b1ac857587f137744b2a3768185f0f4fd56aa5219349d5c1a07abf8c4f2ed976f6476e70e266ac0dce</UniqueId>
+							<string name="Value"/>
+						</Properties>
+						<Item class="Animation" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFbslc6lbmabbaslboasga331bl3i3mlog6s546ssa1ansl6aslbnaoaoolimsmo4loodbbg">
+							<Properties>
+								<Content name="AnimationId"><url>http://www.roblox.com/asset/?id=180436334</url></Content>
+								<BinaryString name="AttributesSerialize"/>
+								<string name="Name">ClimbAnim</string>
+								<int64 name="SourceAssetId">-1</int64>
+								<BinaryString name="Tags"/>
+								<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L61e226eea34a14e29bd9132895687cce9a3657849f79f07b75df487901817bb25cdf65c5cea9e9a42b04d1afd1954ca9aa65006cb3e1a34566b33fd8c73a5ab248004996b6785cc46cc47e79b46f52f4f27ed7ab87ef273b9e21197a8cdffafa15c14d805d062c93a54f33f923e0</UniqueId>
+							</Properties>
+						</Item>
+					</Item>
+					<Item class="StringValue" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFlsalsgnbbnmdmc44aaodaalogb1eoomeb5ssl63oo34be5dsb4o3ndillobgbs4adb5olb">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<string name="Name">toolnone</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lfebd55857a3e981b67b676b7bf72ad2f309137c3c36abd96eebdc2b6e6fd701d856de2ad7e577a443a4258e28d22e6d220956961da814130e778ec6bc0e9f6665518f550921e5836b3f3d70b06cc9750441e3e9d20ee1a368d9bf4f9febdcf59179fb3429e1c1811600155bf244e</UniqueId>
+							<string name="Value"/>
+						</Properties>
+						<Item class="Animation" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF2bdgo4on6b2lciomamdgdnilbob6clb5aimlboosbasoondblboiobaa1l14msobaibdog">
+							<Properties>
+								<Content name="AnimationId"><url>http://www.roblox.com/asset/?id=182393478</url></Content>
+								<BinaryString name="AttributesSerialize"/>
+								<string name="Name">ToolNoneAnim</string>
+								<int64 name="SourceAssetId">-1</int64>
+								<BinaryString name="Tags"/>
+								<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L8ab12a68a47c1d9beb4c4a1916d934ccc15e1b1045d4651439b6cfaad40d7bee5746b263157458d3127250576854470219cc9c485a7c7531893491595d16010d7895c161d32a44e1c07731b23cd31b5dadbcfbd443dbabac7f4acd62f108dd30d4c0866177e6bd07560232f63344</UniqueId>
+							</Properties>
+						</Item>
+					</Item>
+					<Item class="StringValue" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFiaadnb2mnn2a3bbdmbgeladbais44amelomsc6id3lnnml3lobabmsb1l2a4olcmgasbln">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<string name="Name">fall</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L23aae902b8abca911babb4acedede406f104ecbf033e1fff3c8bc1469e2556a90c5c90d67f9cd4b46abee8b4d8c8a88d872b724f1a6c3ea4f419776a1f35ec6a2e9df5130304c83b2a3424a86f6d9d73a3adee192b9071e897c4d76e881f3a0dbfcb3a2c7d3bbdb3338b2c36eb45</UniqueId>
+							<string name="Value"/>
+						</Properties>
+						<Item class="Animation" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFicblamoablmaana4bmb5d6alodinmne2naaonbd3lalbc11sm5i6ldosmc3ba6lmd3nsca">
+							<Properties>
+								<Content name="AnimationId"><url>http://www.roblox.com/asset/?id=180436148</url></Content>
+								<BinaryString name="AttributesSerialize"/>
+								<string name="Name">FallAnim</string>
+								<int64 name="SourceAssetId">-1</int64>
+								<BinaryString name="Tags"/>
+								<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L4d2588d1ffddae7a9e329ae68957b8105a59cdc3abebc0f365b5f5f968866401a61fe2b4e2d824d1c12baa9f0dca417011422c8dff7d0fcdd8dc4d067222156a72df6fb9b70257acba301b00df9baffe514a1da6279404f2147f717932c69455f0bbad3785f989c24b302898f8a3</UniqueId>
+							</Properties>
+						</Item>
+					</Item>
+					<Item class="StringValue" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF3l4ggb66ba3lames5boaoammblllbbnaid1bisbb41a5abll2seanmgilbllnel2goaas4">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<string name="Name">sit</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L24e57747d41f4a8b2ee0742d781ff5f7711cd7b7e8ebc7623e5808a1aa284c9e54bb616482035bbf54717028c25377829083612fc077f3708df1b52a0737b77f0bfb8b4bf617fb14949bb27fbbc95a8e9fb993e76cd116285e34da15937a9f25d4eba08f01bd8c2c11643a1652db</UniqueId>
+							<string name="Value"/>
+						</Properties>
+						<Item class="Animation" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFbal5n53eoldod2ibnlolnlonn14aaai3mblssosmobadaoibamss5n6noao5llobsdaobe">
+							<Properties>
+								<Content name="AnimationId"><url>http://www.roblox.com/asset/?id=178130996</url></Content>
+								<BinaryString name="AttributesSerialize"/>
+								<string name="Name">SitAnim</string>
+								<int64 name="SourceAssetId">-1</int64>
+								<BinaryString name="Tags"/>
+								<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L8ef6002cf4a138697244544dcf2cb06b154e04c700a24c1a6ba0b72481e8e3892e4986652da158e55ce5bb71ffb8396a0acb89d7df285e45e1e41cfaaa423e3d678623055ba376c3a4e43a29d340b5249461f348a1aa4ae8338e1dc4a709eb902d3732f4af77967f93113b83bcb9</UniqueId>
+							</Properties>
+						</Item>
+					</Item>
+					<Item class="NumberValue" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF5b4naadldco3lbm4ao2o2eoaiablol6aogsaas1oaol1mncibclcnlaema5el54obalmab">
+						<Properties>
+							<BinaryString name="AttributesSerialize"/>
+							<string name="Name">ScaleDampeningPercent</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"/>
+							<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Le414a98453ff611fd15b5deb70b4b51aafae95816d37c0b110a2e8a3f5a66186bd11abff17835159e1aef67b79657388d9fa5a3d779e31a3524b0d4c6aa45706db4e39dc8036808216c2ad4b9c46e3eb0cd7457a9cc45918425248abe8979647c117386a61765116082334e299aa</UniqueId>
+							<double name="Value">0.40000000596046447754</double>
+						</Properties>
+					</Item>
+				</Item>
+				<Item class="BodyColors" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFm2ma5alan3nimmaagmneabba2bsadno265bolng3ndoo3ga23aoloaoeaaomnabn1osb4o">
+					<Properties>
+						<BinaryString name="AttributesSerialize"/>
+						<Color3 name="HeadColor3">
+							<R>0.960784376</R>
+							<G>0.80392164</G>
+							<B>0.188235313</B>
+						</Color3>
+						<Color3 name="LeftArmColor3">
+							<R>0.960784376</R>
+							<G>0.80392164</G>
+							<B>0.188235313</B>
+						</Color3>
+						<Color3 name="LeftLegColor3">
+							<R>0.643137276</R>
+							<G>0.741176486</G>
+							<B>0.278431386</B>
+						</Color3>
+						<string name="Name">Body Colors</string>
+						<Color3 name="RightArmColor3">
+							<R>0.960784376</R>
+							<G>0.80392164</G>
+							<B>0.188235313</B>
+						</Color3>
+						<Color3 name="RightLegColor3">
+							<R>0.643137276</R>
+							<G>0.741176486</G>
+							<B>0.278431386</B>
+						</Color3>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"/>
+						<Color3 name="TorsoColor3">
+							<R>0.0509803966</R>
+							<G>0.411764741</G>
+							<B>0.674509823</B>
+						</Color3>
+						<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L5f66b51bce11e8a963d3776d1320b133a9a69c00cc635c434555856a69b64b6b6ff6d5e41a607e0ac11a1f49ba587d304bae4b6fcfa2223ce117262295e40751c52958dfce0726c54474e26e9b47c8dac74d16898274c1f10f565c8ee4044d454acca937b4b0ed89c2ff40c1be3c</UniqueId>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+	</Item>
+	<Item class="StarterPack" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF3mlnema5oalbomcboo5aem65anoobcmbmac52cal4ssnn1asmcgacllaml1daaoombo2el">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">StarterPack</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L8ac696601ce3c4533865d5970c81dcc76fe2cee8907084074f4c5879314cf56936da763f5a699d05cec499a3db0654a172f664a1ae53c576e0fe0e8a5d3d0b4c28708a2782cb118cf305c572a4ea0754802582910abc60b5271f6388489d6c8c6495b6a23319567d4f389b22f83a</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="StarterGui" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFmblbmm6bgl3aedglnngob5ocenlb4l4gnoasdoambbg1oale1ilambcmoa1413nmoadna3">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">StarterGui</string>
+			<bool name="ResetPlayerGuiOnSpawn">true</bool>
+			<token name="ScreenOrientation">2</token>
+			<bool name="ShowDevelopmentGui">true</bool>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L6997d528d821f8e98075e0c50d6bd276c981b8891c7fd3ffb42f83456321915b5f03491871cd78f3d16416ea3b3ad0ca05901581826b129688e79dbcaa632576173087aa983c983b579b6bd2964fc0bcb2d9ec6155a176e5c1a65aabdd512585c3908c6738f17933e7c0cc42f1c0</UniqueId>
+			<token name="VirtualCursorMode">0</token>
+		</Properties>
+	</Item>
+	<Item class="LocalizationService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFc3olg46l5alg2l6lm32c5osdm6bisgml1bbmni6adgllbonbasgaalagloalb5aabool4l">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">LocalizationService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lff54bd3d5d9036fab5bad324429c0517b704cb859cc5d5aaf1f52673c368f7aab9670539a29bb1571077c5b534f7d13efc0f19094598595fc250923b089e5eaf782d40e3bad2e402e5e4a0ff1228fdc3f30b090bfbb118a64aa277018eca32f18d8fc35fee5d87bd3074b6906507</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="TeleportService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFaombneel6naalnbb2dll4enmb4gao5os4b2i1bc53n2sss1leaas1s6oslonoo11cb4o3a">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">Teleport Service</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Le90dbec33a8fff5b7ae3e0ad3151833d1e7bbe0a46ea4a4624f1e4b02eaa94b999de47bf0772876c868a7c1ddf93b608a165ff4ff191e4cf8f0162ca8ccca8c966770c80c81e0962e9c84206cc315cd3e1485307e8e36a8310d761c3c4b154fad6d77779760ab9c0e076adad7c34</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="CollectionService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFm3ollndlslcma12la5oosgsmai3macmobss4l364aogl3g4an6aan6lciinbao4na4ali6">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">CollectionService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L937e280dc764e7c9807e7875e16fe76ae59c235e6acb861bb4a64de14086e94afbeb6f3a42f2e6f6a20f8e8bc31565ffac8a058721e19286c61f40c7d8e1821ba7c1351458e8d91ff291e89ec4f8cba6d676d82a97fd23b7c8212b5e8eec4c97d8112828855d7e316875b0df0357</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="PhysicsService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFabangabcbdcsn5aao3lnbbgai4albnomssn5432s62saedsna4e4g6c1cc32cbd3bds1ml">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">PhysicsService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lbbb25458e4e48785a02b5d97ea1d4762d5922163058ef4ac6b5f120811bc26be12ef3c3feeb00337302599b37293cb097cf60ce5ca5840ed9d02fb5fb669ae4fd7935489a82e749c86a7ca77dc20c11481260d7d3ef21b1e73d53d33bc2601f39496266f94a4ac21be0f7a910eaa</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="Geometry" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFaeionm1d1blbo4all5alll5ibc4a1blalnmslbsnslia5b6dombooiaoan3cl6omg6bbgg">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">Geometry</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L0832e79e5261ee6739e8cfa15d27ee4ebb18976b895d650b18dc495e2e6261cf960c180d733dc5108693cae476b1d225352486a3ff535a045ebf9aa3861f5fe66598aa501769bf6315d91c905630204c252feb536db3652bbdebbae4df647abe7a8b90ba0b953c87b0b9fa7e650b</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="InsertService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFi1lcob4scno4ammeosoo4galobmaoia2mi2b1b166csllla4es3bma3cl1ao22ssollslb">
+		<Properties>
+			<bool name="AllowClientInsertModels">false</bool>
+			<bool name="AllowInsertFreeModels">false</bool>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">InsertService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L87a1be38dd1450be6a9d43792d5812d53e139963b595a02301dd8e93e1870a878ed170cf64e68f6e4492797d8fecbfd4cd869ff94df47277ed46e71d1ebd6352b8cb3c92355d6befa1220b3f114189763458164fab3ba693c8161e864e1ae4d8b27c68dd6213bc11c4aadfa731ed</UniqueId>
+		</Properties>
+		<Item class="StringValue" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFmb14aiam6ia5blmcbllabdl5noan5logbgsao1smlis3dalmgd1lblacloaonliclaoblb">
+			<Properties>
+				<BinaryString name="AttributesSerialize"/>
+				<string name="Name">InsertionHash</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"/>
+				<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1La52e2fc183170d840eacafeca93f8e36917bb803b01ae73db8a961f19417112dc0abcde6272468ec6f137a8c0dd99557b4c18c6eca80224628bdb3956ce07fbf5a3fbc755639b9be6f15f0982376ae7f37ca54ef12d60ff28e668443b376a0ff99b69ca1f1233e02fde6485fee2a</UniqueId>
+				<string name="Value">{562B5837-D518-40B5-9F34-20607A75EB46}</string>
+			</Properties>
+		</Item>
+	</Item>
+	<Item class="GamePassService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFmloglsail5dnmngassegobdilslsn2dlcgbooilbba2mllnlo4albgegss3s1ailoblsg1">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">GamePassService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lee0ed175bba24252a795eb45db6cf88830333e21f51d15585967b51f4091fa635c83a89a20ecf5797ce7e32b6224561865552f1c877134a2a749434bb11e1d9212dabf9bbfc23b74274f5079b0ebc6829f8403603d3344100b21512a25d52b2565f9cca77efa40429366534b6e2b</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="Debris" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFcmlibs36bsmson1bbea5lbca1doscganmcmns1onelieldlscc3asalnleoabmabcs3a4s">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<int name="MaxItems">1000</int>
+			<string name="Name">Debris</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L38fc67d93235fa7758f6bb9cf5032f8d61b327ca3c1eeaf06d23fee6aa3d399a6e5642d384ae3960f5a3ed6138883e2c23ccef2d8c6f3e789e1df5386a9cc2125a6c4184952b1c07a5b549174a0e6fa7cac49e0e2982aae69e418cb4c68d1e4b2ec850fd917a0f1d2ea68a521b4c</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="CookiesService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFoo2oegbnnosn35ia3bao4nd4sa1es1nobs6lc1g5sbaa6n5blm3bmn16ga6b1b4mbno44a">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">CookiesService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L64cff30f4e6b2a2ab2b3ccbab25e2f2849fc0c11ecf40948c435796d15889f979b1cf6743f09471052d90664ca01119e40bf6f183b5d85dc3a52a4cd1ec8ac2c629a34744d0b9e47fa467af41cc6bf730645d3f32fef823e41ec453a17a0d71ecadf7c78a6e8ec239a889a0a5373</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="VRService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFlainiaioooeo112s2aonlmsslblialob1c4a6b1a4ambbb6bmalagasasnin3ibbno1nmc">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">VRService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L79efbc50f533f7ae903d899d034344f517f578158a1f318c03d3de609d48cce3e891b7b7738eb643f10ababd9abf4c068a523aefd46967b1f59003ca08e4c0ba821c783281f5d62924ad6fa767cbd9ede5341417994ccc43ec597a61a808e2f1c22f97f4bc3d1b58107ef5e57f04</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="ContextActionService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFs6ale44moil4alclloab2dlmaadna5366sb3bcb2ls113aeillo55a51b52321laca6n6n">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">ContextActionService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lb23b141ac135f52d3b3ccfda9233947a1ee67935a2afbf7d36b94c6bac2ec5c142cbded6baa6a90e4f6b02a589af184e1a9808c9421e9d41c71e83da74a4c7e56b15c64da06fb9f4f7fdf6c57413cdaa29e0b89b95d7832b6e0df7513b2c5bf31914ba0649565b40e4fa206bfda7</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="ScriptService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF6g4adlo3e5l5nbaabb1bmboa1sealbgebmlgblg3mibooas5nsoma2mbcabbsolgl6obbb">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">Instance</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L9a6636cc2d07eb07d1179ef8b533c9591771c7b1d91e4a0992b21eb70c72dc68d17c135e8cc2a338b5e1d688da9d95dcbdee2ca04ad2948245271a2414031021304c907d91b5da63b33ed44e6961b9d77276f69c8492bf830b8548bf5d13b7e546b9f536be320b2cfc8b3a7f6dc5</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="AssetService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFolnibnm2a3a4osmamaool3mo4oo5na1ilalabd4llbnlcllclgoamolblanao34abasdlo">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">AssetService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L286da2a3894627a4eeb02e5d098dabd51dbd4e01c25d12d93421680a9ad90c59858e297a2b1b1bfdbe58ac1955a27e2cb49405b84c420c339f621b1f4eb60e7f4cc1675ec2e82ead3fd2af6e681be4682e8fc01d6c7c091157b8340efbd588e18aa93edf5b09b290fac1a6b8fd76</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="TouchInputService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFocecadslolo6o1case4lm5l6al46i5lss4l2nlaes6o1blbamoocmaabmcaoabnooaamig">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">TouchInputService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L5f51dd92fde2543a7b604a8f649700148b2237fc293d6da5da9cb022c02630a0ec073c2941dae32df0baa3dcdb5cc460a09d6e2f09b77e5f83946a1d3275c8ce5e90f2d555501a37b7cabe20a13e287108a421423dbe21b3b695c10d281106cea53e1cbc72f1ad4eeb2e9b1639f5</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="AnalyticsService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF256cgbcao2cs4al6s51ablasngsa4bacs1dmsdlb2oalams6bbasoa66asnelllllblbma">
+		<Properties>
+			<string name="ApiKey"/>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">AnalyticsService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L2a2dcf315567bf1fbbe5d69c7c49617042fdf9a20aaec6f4bb96cecd25280284ea525b2682e761c3965135a9500b65ceabc900ea3182fe19eb7a642249505b99f195bec0b004fa908fba94985983ff9794b306d26e438d9db7659b639df53ed12922cff31756e13c7e4981d4744f</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="Selection" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFs3diliggsanbb1lmll4ad1lgolbsabmsellsnnc4coomsm3bmen4almlbclon6ed6olbbo">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">Selection</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L9832baa6f576b812f7fe602c1d8281c962eaf07f3b5211ca155acfe835d81dabb316cfe5a1c61bb1e3ea81be54a1619b1cb332680a09ac002fb14aa4b617f801cbc7ab6513e4448a0a761868077fdb7c044c0b99ffd26a0a8946212a9be2d354bc3fe9c112a5d0ad8419e90fff3e</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="ServerScriptService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFalalm52inc1aboocmclaooogll62bead6al5e2ng3lasbmclm6d2mo3alb1a3lemlno6ma">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<bool name="LoadStringEnabled">false</bool>
+			<string name="Name">ServerScriptService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L8d18379c5e9244c23fe7b0228efb4f880373e09952e12c3f098ac099bffe9cbd89352608cbaafe203cac9cc12d6e3d4f4960704e30654d44842fc5845c7a94fc44278f5938bae564009bc29d099a45829b7ab5d22d7ef27fefae89e68dc6bd66f919d02f1ba1cd2b7fe36ac6a71a</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="ServerStorage" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFlglaonsagbcl31canacml1m3elegal5bal2asl1dbbassm4eadel2mllall1m3gol1od5i">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">ServerStorage</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L6ee7c6242f68bb5c5d94cdaf3d39cc9b9c0e2ab40c38cec068ea0b3ee52ca4205644a308dd1291dd302535c70fe42011762ad6375fa213b62bfdd712bc4ae66e518397864da48d585de8f44461abb9c6b88eaed68d64993206d7c1bc32ce90933571b466dd15518e892f13611b9e</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="ReplicatedStorage" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF4mdasn5e3dgssnmos332lbl51inmsbnlmll4obb2oamam6omgm2l6cll6adsmbbeooa3mc">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">ReplicatedStorage</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Ld987f78f9d5fce4ad995a3390b5b67dc78151aadcf388db9e753425d87f76e4842fcd80d075ee31530276e14cfe958155f978ec6736ba7f153b4b3c5c3a692a9adefaccb3a928f91963cd8d689a21935aaeecfaa3874cdc752e295ef071518c9d124f234c8f37b64a91da1ab1444</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="LuaWebService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFdll2cdiamobbnd2imngoanbllaoao1eca6bbglomial1llbam5lbmalslaslgbsinl6bgg">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">Instance</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L8616edd9e6d70f7268c93c0a235caa34766d4f86d36a8c2d6e2cb601481427796b1987a569eb907310b73e54eaa6d4c2b32955a7be322392e6e33697cb114da4d9c7ceecaa640d6b9e0e46813081253f9febfd92e90a597328374e84cbfa03eed18d5fb131a01a8942869c0bf611</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="ProcessInstancePhysicsService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFolls2bmonmacobbnaclaibns2oaaeco4ealb2lls3ssoa4clab5n5oad32osbmalml1ab5">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">ProcessInstancePhysicsService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1La4ccb341d418d830179ceed842e2951007fa27fee49e90ee186c65beba34d960ecb00edfdd3a83390d57f0f4122957b07398c1b647309c3121b38f1b7f3868e18fd614a761e9813edf4df78e2d942b50833dc0388210373c1f9d35f6fc97f47ca54318f4964ee19c588908fcffb3</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="LanguageService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFii131m2l4am52oosb443dlssdldlmnlion4533agoaabias2cbllmnammo42o44b5saa3c">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">LanguageService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Ld993527ffe0d9a1beec5a7c1c452af53989af17f41cfb64480612cc55cdc78860e22ea9b4f1c95dbcb05d2225cdc728f71979be5047186f7a85e58066e3a31f01a22d116e38cd69302ee41dc85f5a6159f7b3036e69268ffbeafacecb2d810c635d20cd8c49aed0ceb6f3014268a</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="Lighting" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDF1lgo5sasbeb2sblbels5isb6embbibl4nbl5nbasseob2lcm2b6a4meaaioloomlobasb3">
+		<Properties>
+			<Color3 name="Ambient">
+				<R>0.541176498</R>
+				<G>0.541176498</G>
+				<B>0.541176498</B>
+			</Color3>
+			<BinaryString name="AttributesSerialize"/>
+			<float name="Brightness">0.949999988</float>
+			<Color3 name="ColorShift_Bottom">
+				<R>0.427451015</R>
+				<G>0.396078467</G>
+				<B>0.278431386</B>
+			</Color3>
+			<Color3 name="ColorShift_Top">
+				<R>0.694117665</R>
+				<G>0.709803939</G>
+				<B>0.349019617</B>
+			</Color3>
+			<float name="EnvironmentDiffuseScale">0</float>
+			<float name="EnvironmentSpecularScale">0</float>
+			<float name="ExposureCompensation">0</float>
+			<Color3 name="FogColor">
+				<R>0.752941251</R>
+				<G>0.752941251</G>
+				<B>0.752941251</B>
+			</Color3>
+			<float name="FogEnd">100000</float>
+			<float name="FogStart">0</float>
+			<float name="GeographicLatitude">0</float>
+			<bool name="GlobalShadows">true</bool>
+			<string name="Name">Lighting</string>
+			<Color3 name="OutdoorAmbient">
+				<R>0</R>
+				<G>0</G>
+				<B>0</B>
+			</Color3>
+			<bool name="Outlines">false</bool>
+			<float name="ShadowSoftness">0.5</float>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<token name="Technology">2</token>
+			<string name="TimeOfDay">14:00:00</string>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Ldc48ce739b4b753ae09366dd101282f3c07644a883b88cb22a45631318c406de0216f095baba4ea0602ed8df2a7c34b2addba0917ec0196178b80c66e8139762e3a8ed321916420841557093105f7614c5ef1b5d1b2e296ce2ef172bc043b05561eb10766a58f340fbe85e0ef8b4</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="LodDataService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFsboal5ll5sbo2loi53315nadolama6alsm1s4llaaobssd3sb2mbasslbnnsao4o2sdssl">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">Instance</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lb67afa7bce5e4d5b7fcec5f506b51eecdb31f0101cf2f1b4d6a81a88d094c7e153bc923d11d04e29e0d3c3edcae7dcc0baea3c765a6f820884822f1616dc1eeeb410d0ed35df0f9eed7995bba5c8a5d5f8d2e15fac6b75954c8f921514fedbec170b637e26bbc2d5047e33932e06</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="ProximityPromptService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFogai1bnlob5abboola5oamdssobo46i331san642ala36bboa33a5gsmaon6a3on64aooi">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<bool name="Enabled">true</bool>
+			<int name="MaxPromptsVisible">16</int>
+			<string name="Name">ProximityPromptService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lce7612ab57beed7a4a051f29bdd0acb89b488f2316c9e5562c7e8e8a176768196b8fb1383aa279560b997cb25fdcefcb800167f9509ac158eec07e5774c5925809297ae0f4833a4d6b103c155b0ad86f738a3440850ac20029d529efe4dff720956e43ea2dda454a2e27791a0d72</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="HttpService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFllbodsgbllsbm51olbldlabsa1nanib1abgmssnnoaaa65dc3oabl3solla1dogb4136gb">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<bool name="HttpEnabled">true</bool>
+			<string name="Name">HttpService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lb33c49af1d525b9a217ed1e534f62487d80d9a97d1a97338cdba047f8e931b7de156691f0beea3c307127b8979ebe7938272cf06bbb8bcb9c5511c7ccc0922c16bba2586362d9bfda45bec76d102229057e5d90789b3ace28fa747777e012754cd08634454a8c8a45037009e0b25</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="Teams" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFb6a6bemmalnssocesbc2eab5anm5123a1leamao5cmnagsmaabobn51absedn5l3l2o5aa">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">Teams</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1L440e91d1a22eefd5372d8f2b4f81df42e57da9b73eec0f760ab0009bdd698ae7659a032253c1b1e67d463c80b82eded41c63e188dd174d92de44fc8cf1cf246e69f4491b85f63e55cc700a447bb4997d6b1e99680a9fe5dce6bc92e3cd3daae7c6a8eb05964ea7cca9311f29abdf</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="TestService" referent="DASDJKADSKJKLDFLjhhjhjhjFDKJSLJAFDSKAFDKJADFSJLADFSLJKLKJDSAFLKJADF3132132123132SLKJADFSKJLADFSKJLLKJASDFLKJLFSKJADKJLAFSDJKLADFSLKJASKJLDFslmsmb2glmi63eaao5o5lne5ollba5mlab1n6llaos4lsaaga5bsmd1labmila3iaob6on">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<bool name="AutoRuns">true</bool>
+			<string name="Description"/>
+			<bool name="ExecuteWithStudioRun">false</bool>
+			<bool name="Is30FpsThrottleEnabled">true</bool>
+			<bool name="IsPhysicsEnvironmentalThrottled">true</bool>
+			<bool name="IsSleepAllowed">true</bool>
+			<string name="Name">TestService</string>
+			<int name="NumberOfPlayers">0</int>
+			<double name="SimulateSecondsLag">0</double>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"/>
+			<double name="Timeout">10</double>
+			<UniqueId name="UniqueId">ILOVEHOTDOGShjhjhjhjhhjjhjhjhjLOLlmao1O1Lf9959b2a454bc025638303c09f3c006a285dd1e4f1526669b66b1499f7a9a4538a8aaf54e74dd6172c67e105e55f491c0f66720710f2b79f0f57d537dc51835a3f5603c1f56bba158011473c34a43fcf426d42bfb584d9219f2b2fe859ce590b6ca4fe8ce81dc2dec5b0187b4234</UniqueId>
+		</Properties>
+	</Item>
+	<SharedStrings>
+		<SharedString md5="yuZpQdnvvUBOTYh1jqZ2cA=="/>
+	</SharedStrings>
+</roblox>
